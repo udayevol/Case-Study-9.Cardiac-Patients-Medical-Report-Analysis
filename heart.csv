@@ -1,0 +1,1026 @@
+Age,Sex,Chest Pain,trestbps,Serum Cholesterol,Fasting Blood Sugar,restecg,thalach,exang,oldpeak,slope,ca,Max Heart rate Achieved,Target
+52,Male,Asymptomatic,125,212,FALSE,1,168,0,1,2,2,3,No Heart Disease
+53,Male,Asymptomatic,140,203,TRUE,0,155,1,3.1,0,0,3,No Heart Disease
+70,Male,Asymptomatic,145,174,FALSE,1,125,1,2.6,0,0,3,No Heart Disease
+61,Male,Asymptomatic,148,203,FALSE,1,161,0,0,2,1,3,No Heart Disease
+62,Female,Asymptomatic,138,294,TRUE,1,106,0,1.9,1,3,2,No Heart Disease
+58,Female,Asymptomatic,100,248,FALSE,0,122,0,1,1,0,2,Heart Disease
+58,Male,Asymptomatic,114,318,FALSE,2,140,0,4.4,0,3,1,No Heart Disease
+55,Male,Asymptomatic,160,289,FALSE,0,145,1,0.8,1,1,3,No Heart Disease
+46,Male,Asymptomatic,120,249,FALSE,0,144,0,0.8,2,0,3,No Heart Disease
+54,Male,Asymptomatic,122,286,FALSE,0,116,1,3.2,1,2,2,No Heart Disease
+71,Female,Asymptomatic,112,149,FALSE,1,125,0,1.6,1,0,2,Heart Disease
+43,Female,Asymptomatic,132,341,TRUE,0,136,1,3,1,0,3,No Heart Disease
+34,Female,Non-anginal pain,118,210,FALSE,1,192,0,0.7,2,0,2,Heart Disease
+51,Male,Asymptomatic,140,298,FALSE,1,122,1,4.2,1,3,3,No Heart Disease
+52,Male,Asymptomatic,128,204,TRUE,1,156,1,1,1,0,0,No Heart Disease
+34,Female,Non-anginal pain,118,210,FALSE,1,192,0,0.7,2,0,2,Heart Disease
+51,Female,Atypical angina,140,308,FALSE,0,142,0,1.5,2,1,2,Heart Disease
+54,Male,Asymptomatic,124,266,FALSE,0,109,1,2.2,1,1,3,No Heart Disease
+50,Female,Non-anginal pain,120,244,FALSE,1,162,0,1.1,2,0,2,Heart Disease
+58,Male,Atypical angina,140,211,TRUE,0,165,0,0,2,0,2,Heart Disease
+60,Male,Atypical angina,140,185,FALSE,0,155,0,3,1,0,2,No Heart Disease
+67,Female,Asymptomatic,106,223,FALSE,1,142,0,0.3,2,2,2,Heart Disease
+45,Male,Asymptomatic,104,208,FALSE,0,148,1,3,1,0,2,Heart Disease
+63,Female,Atypical angina,135,252,FALSE,0,172,0,0,2,0,2,Heart Disease
+42,Female,Atypical angina,120,209,FALSE,1,173,0,0,1,0,2,Heart Disease
+61,Female,Asymptomatic,145,307,FALSE,0,146,1,1,1,0,3,No Heart Disease
+44,Male,Atypical angina,130,233,FALSE,1,179,1,0.4,2,0,2,Heart Disease
+58,Female,Non-anginal pain,136,319,TRUE,0,152,0,0,2,2,2,No Heart Disease
+56,Male,Atypical angina,130,256,TRUE,0,142,1,0.6,1,1,1,No Heart Disease
+55,Female,Asymptomatic,180,327,FALSE,2,117,1,3.4,1,0,2,No Heart Disease
+44,Male,Asymptomatic,120,169,FALSE,1,144,1,2.8,0,0,1,No Heart Disease
+50,Female,Non-anginal pain,120,244,FALSE,1,162,0,1.1,2,0,2,Heart Disease
+57,Male,Asymptomatic,130,131,FALSE,1,115,1,1.2,1,1,3,No Heart Disease
+70,Male,Atypical angina,160,269,FALSE,1,112,1,2.9,1,1,3,No Heart Disease
+50,Male,Atypical angina,129,196,FALSE,1,163,0,0,2,0,2,Heart Disease
+46,Male,Atypical angina,150,231,FALSE,1,147,0,3.6,1,0,2,No Heart Disease
+51,Male,Typical angina,125,213,FALSE,0,125,1,1.4,2,1,2,Heart Disease
+59,Male,Asymptomatic,138,271,FALSE,0,182,0,0,2,0,2,Heart Disease
+64,Male,Asymptomatic,128,263,FALSE,1,105,1,0.2,1,1,3,Heart Disease
+57,Male,Atypical angina,128,229,FALSE,0,150,0,0.4,1,1,3,No Heart Disease
+65,Female,Atypical angina,160,360,FALSE,0,151,0,0.8,2,0,2,Heart Disease
+54,Male,Atypical angina,120,258,FALSE,0,147,0,0.4,1,0,3,Heart Disease
+61,Female,Asymptomatic,130,330,FALSE,0,169,0,0,2,0,2,No Heart Disease
+46,Male,Asymptomatic,120,249,FALSE,0,144,0,0.8,2,0,3,No Heart Disease
+55,Female,Non-anginal pain,132,342,FALSE,1,166,0,1.2,2,0,2,Heart Disease
+42,Male,Asymptomatic,140,226,FALSE,1,178,0,0,2,0,2,Heart Disease
+41,Male,Non-anginal pain,135,203,FALSE,1,132,0,0,1,0,1,Heart Disease
+66,Female,Asymptomatic,178,228,TRUE,1,165,1,1,1,2,3,No Heart Disease
+66,Female,Atypical angina,146,278,FALSE,0,152,0,0,1,1,2,Heart Disease
+60,Male,Asymptomatic,117,230,TRUE,1,160,1,1.4,2,2,3,No Heart Disease
+58,Female,Typical angina,150,283,TRUE,0,162,0,1,2,0,2,Heart Disease
+57,Female,Asymptomatic,140,241,FALSE,1,123,1,0.2,1,0,3,No Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+49,Male,Atypical angina,120,188,FALSE,1,139,0,2,1,3,3,No Heart Disease
+55,Male,Asymptomatic,140,217,FALSE,1,111,1,5.6,0,0,3,No Heart Disease
+55,Male,Asymptomatic,140,217,FALSE,1,111,1,5.6,0,0,3,No Heart Disease
+56,Male,Typical angina,120,193,FALSE,0,162,0,1.9,1,0,3,Heart Disease
+48,Male,Non-anginal pain,130,245,FALSE,0,180,0,0.2,1,0,2,Heart Disease
+67,Male,Atypical angina,152,212,FALSE,0,150,0,0.8,1,0,3,No Heart Disease
+57,Male,Non-anginal pain,154,232,FALSE,0,164,0,0,2,1,2,No Heart Disease
+29,Male,Non-anginal pain,130,204,FALSE,0,202,0,0,2,0,2,Heart Disease
+66,Female,Atypical angina,146,278,FALSE,0,152,0,0,1,1,2,Heart Disease
+67,Male,Asymptomatic,100,299,FALSE,0,125,1,0.9,1,2,2,No Heart Disease
+59,Male,Atypical angina,150,212,TRUE,1,157,0,1.6,2,0,2,Heart Disease
+29,Male,Non-anginal pain,130,204,FALSE,0,202,0,0,2,0,2,Heart Disease
+59,Male,Typical angina,170,288,FALSE,0,159,0,0.2,1,0,3,No Heart Disease
+53,Male,Atypical angina,130,197,TRUE,0,152,0,1.2,0,0,2,Heart Disease
+42,Male,Asymptomatic,136,315,FALSE,1,125,1,1.8,1,0,1,No Heart Disease
+37,Female,Atypical angina,120,215,FALSE,1,170,0,0,2,0,2,Heart Disease
+62,Female,Asymptomatic,160,164,FALSE,0,145,0,6.2,0,3,3,No Heart Disease
+59,Male,Asymptomatic,170,326,FALSE,0,140,1,3.4,0,0,3,No Heart Disease
+61,Male,Asymptomatic,140,207,FALSE,0,138,1,1.9,2,1,3,No Heart Disease
+56,Male,Asymptomatic,125,249,TRUE,0,144,1,1.2,1,1,2,No Heart Disease
+59,Male,Asymptomatic,140,177,FALSE,1,162,1,0,2,1,3,No Heart Disease
+48,Male,Asymptomatic,130,256,TRUE,0,150,1,0,2,2,3,No Heart Disease
+47,Male,Atypical angina,138,257,FALSE,0,156,0,0,2,0,2,Heart Disease
+48,Male,Atypical angina,124,255,TRUE,1,175,0,0,2,2,2,Heart Disease
+63,Male,Asymptomatic,140,187,FALSE,0,144,1,4,2,2,3,No Heart Disease
+52,Male,Non-anginal pain,134,201,FALSE,1,158,0,0.8,2,1,2,Heart Disease
+52,Male,Non-anginal pain,134,201,FALSE,1,158,0,0.8,2,1,2,Heart Disease
+50,Male,Atypical angina,140,233,FALSE,1,163,0,0.6,1,1,3,No Heart Disease
+49,Male,Atypical angina,118,149,FALSE,0,126,0,0.8,2,3,2,No Heart Disease
+46,Male,Atypical angina,150,231,FALSE,1,147,0,3.6,1,0,2,No Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+37,Female,Atypical angina,120,215,FALSE,1,170,0,0,2,0,2,Heart Disease
+44,Male,Non-anginal pain,120,220,FALSE,1,170,0,0,2,0,2,Heart Disease
+58,Male,Atypical angina,140,211,TRUE,0,165,0,0,2,0,2,Heart Disease
+59,Female,Asymptomatic,174,249,FALSE,1,143,1,0,1,0,2,No Heart Disease
+62,Female,Asymptomatic,140,268,FALSE,0,160,0,3.6,0,2,2,No Heart Disease
+68,Male,Asymptomatic,144,193,TRUE,1,141,0,3.4,1,2,3,No Heart Disease
+54,Female,Atypical angina,108,267,FALSE,0,167,0,0,2,0,2,Heart Disease
+62,Female,Asymptomatic,124,209,FALSE,1,163,0,0,2,0,2,Heart Disease
+63,Male,Asymptomatic,140,187,FALSE,0,144,1,4,2,2,3,No Heart Disease
+44,Male,Asymptomatic,120,169,FALSE,1,144,1,2.8,0,0,1,No Heart Disease
+62,Male,Non-anginal pain,128,208,TRUE,0,140,0,0,2,0,2,Heart Disease
+45,Female,Asymptomatic,138,236,FALSE,0,152,1,0.2,1,0,2,Heart Disease
+57,Female,Asymptomatic,128,303,FALSE,0,159,0,0,2,1,2,Heart Disease
+53,Male,Asymptomatic,123,282,FALSE,1,95,1,2,1,2,3,No Heart Disease
+65,Male,Asymptomatic,110,248,FALSE,0,158,0,0.6,2,2,1,No Heart Disease
+76,Female,Atypical angina,140,197,FALSE,2,116,0,1.1,1,0,2,Heart Disease
+43,Female,Atypical angina,122,213,FALSE,1,165,0,0.2,1,0,2,Heart Disease
+57,Male,Atypical angina,150,126,TRUE,1,173,0,0.2,2,1,3,Heart Disease
+54,Male,Non-anginal pain,108,309,FALSE,1,156,0,0,2,0,3,Heart Disease
+47,Male,Atypical angina,138,257,FALSE,0,156,0,0,2,0,2,Heart Disease
+52,Male,Typical angina,118,186,FALSE,0,190,0,0,1,0,1,Heart Disease
+47,Male,Asymptomatic,110,275,FALSE,0,118,1,1,1,1,2,No Heart Disease
+51,Male,Asymptomatic,140,299,FALSE,1,173,1,1.6,2,0,3,No Heart Disease
+62,Male,Non-anginal pain,120,281,FALSE,0,103,0,1.4,1,1,3,No Heart Disease
+40,Male,Asymptomatic,152,223,FALSE,1,181,0,0,2,0,3,No Heart Disease
+54,Male,Asymptomatic,110,206,FALSE,0,108,1,0,1,1,2,No Heart Disease
+44,Male,Asymptomatic,110,197,FALSE,0,177,0,0,2,1,2,No Heart Disease
+53,Male,Asymptomatic,142,226,FALSE,0,111,1,0,2,0,3,Heart Disease
+48,Male,Asymptomatic,130,256,TRUE,0,150,1,0,2,2,3,No Heart Disease
+57,Male,Asymptomatic,110,335,FALSE,1,143,1,3,1,1,3,No Heart Disease
+59,Male,Atypical angina,126,218,TRUE,1,134,0,2.2,1,1,1,No Heart Disease
+61,Female,Asymptomatic,145,307,FALSE,0,146,1,1,1,0,3,No Heart Disease
+63,Male,Asymptomatic,130,254,FALSE,0,147,0,1.4,1,1,3,No Heart Disease
+43,Male,Asymptomatic,120,177,FALSE,0,120,1,2.5,1,0,3,No Heart Disease
+29,Male,Non-anginal pain,130,204,FALSE,0,202,0,0,2,0,2,Heart Disease
+42,Male,Non-anginal pain,120,295,FALSE,1,162,0,0,2,0,2,Heart Disease
+54,Male,Non-anginal pain,108,309,FALSE,1,156,0,0,2,0,3,Heart Disease
+44,Male,Asymptomatic,120,169,FALSE,1,144,1,2.8,0,0,1,No Heart Disease
+60,Male,Asymptomatic,145,282,FALSE,0,142,1,2.8,1,2,3,No Heart Disease
+65,Female,Atypical angina,140,417,TRUE,0,157,0,0.8,2,1,2,Heart Disease
+61,Male,Asymptomatic,120,260,FALSE,1,140,1,3.6,1,1,3,No Heart Disease
+60,Female,Typical angina,150,240,FALSE,1,171,0,0.9,2,0,2,Heart Disease
+66,Male,Asymptomatic,120,302,FALSE,0,151,0,0.4,1,0,2,Heart Disease
+53,Male,Atypical angina,130,197,TRUE,0,152,0,1.2,0,0,2,Heart Disease
+52,Male,Atypical angina,138,223,FALSE,1,169,0,0,2,4,2,Heart Disease
+57,Male,Asymptomatic,140,192,FALSE,1,148,0,0.4,1,0,1,Heart Disease
+60,Female,Typical angina,150,240,FALSE,1,171,0,0.9,2,0,2,Heart Disease
+51,Female,Atypical angina,130,256,FALSE,0,149,0,0.5,2,0,2,Heart Disease
+41,Male,Non-anginal pain,135,203,FALSE,1,132,0,0,1,0,1,Heart Disease
+50,Male,Atypical angina,129,196,FALSE,1,163,0,0,2,0,2,Heart Disease
+54,Male,Non-anginal pain,108,309,FALSE,1,156,0,0,2,0,3,Heart Disease
+58,Female,Asymptomatic,170,225,TRUE,0,146,1,2.8,1,2,1,No Heart Disease
+55,Female,Non-anginal pain,132,342,FALSE,1,166,0,1.2,2,0,2,Heart Disease
+64,Female,Asymptomatic,180,325,FALSE,1,154,1,0,2,0,2,Heart Disease
+47,Male,Atypical angina,138,257,FALSE,0,156,0,0,2,0,2,Heart Disease
+41,Male,Non-anginal pain,110,235,FALSE,1,153,0,0,2,0,2,Heart Disease
+57,Male,Asymptomatic,152,274,FALSE,1,88,1,1.2,1,1,3,No Heart Disease
+63,Female,Asymptomatic,124,197,FALSE,1,136,1,0,1,0,2,No Heart Disease
+61,Male,Typical angina,134,234,FALSE,1,145,0,2.6,1,2,2,No Heart Disease
+34,Male,Typical angina,118,182,FALSE,0,174,0,0,2,0,2,Heart Disease
+47,Male,Asymptomatic,112,204,FALSE,1,143,0,0.1,2,0,2,Heart Disease
+40,Male,Asymptomatic,110,167,FALSE,0,114,1,2,1,0,3,No Heart Disease
+51,Female,Atypical angina,120,295,FALSE,0,157,0,0.6,2,0,2,Heart Disease
+41,Male,Asymptomatic,110,172,FALSE,0,158,0,0,2,0,3,No Heart Disease
+52,Male,Typical angina,152,298,TRUE,1,178,0,1.2,1,0,3,Heart Disease
+39,Male,Atypical angina,140,321,FALSE,0,182,0,0,2,0,2,Heart Disease
+58,Male,Asymptomatic,114,318,FALSE,2,140,0,4.4,0,3,1,No Heart Disease
+54,Male,Non-anginal pain,192,283,FALSE,0,195,0,0,2,1,3,No Heart Disease
+58,Male,Asymptomatic,125,300,FALSE,0,171,0,0,2,2,3,No Heart Disease
+54,Male,Atypical angina,120,258,FALSE,0,147,0,0.4,1,0,3,Heart Disease
+63,Male,Asymptomatic,130,330,TRUE,0,132,1,1.8,2,3,3,No Heart Disease
+54,Male,Non-anginal pain,108,309,FALSE,1,156,0,0,2,0,3,Heart Disease
+40,Male,Typical angina,140,199,FALSE,1,178,1,1.4,2,0,3,Heart Disease
+54,Male,Atypical angina,120,258,FALSE,0,147,0,0.4,1,0,3,Heart Disease
+67,Female,Atypical angina,115,564,FALSE,0,160,0,1.6,1,0,3,Heart Disease
+41,Male,Non-anginal pain,120,157,FALSE,1,182,0,0,2,0,2,Heart Disease
+77,Male,Asymptomatic,125,304,FALSE,0,162,1,0,2,3,2,No Heart Disease
+51,Male,Atypical angina,100,222,FALSE,1,143,1,1.2,1,0,2,Heart Disease
+77,Male,Asymptomatic,125,304,FALSE,0,162,1,0,2,3,2,No Heart Disease
+48,Male,Asymptomatic,124,274,FALSE,0,166,0,0.5,1,0,3,No Heart Disease
+56,Male,Asymptomatic,125,249,TRUE,0,144,1,1.2,1,1,2,No Heart Disease
+59,Male,Asymptomatic,170,326,FALSE,0,140,1,3.4,0,0,3,No Heart Disease
+56,Male,Asymptomatic,132,184,FALSE,0,105,1,2.1,1,1,1,No Heart Disease
+57,Female,Asymptomatic,120,354,FALSE,1,163,1,0.6,2,0,2,Heart Disease
+43,Male,Atypical angina,130,315,FALSE,1,162,0,1.9,2,1,2,Heart Disease
+45,Female,Non-anginal pain,112,160,FALSE,1,138,0,0,1,0,2,Heart Disease
+43,Male,Asymptomatic,150,247,FALSE,1,171,0,1.5,2,0,2,Heart Disease
+56,Male,Asymptomatic,130,283,TRUE,0,103,1,1.6,0,0,3,No Heart Disease
+56,Male,Non-anginal pain,120,240,FALSE,1,169,0,0,0,0,2,Heart Disease
+39,Female,Atypical angina,94,199,FALSE,1,179,0,0,2,0,2,Heart Disease
+54,Male,Asymptomatic,110,239,FALSE,1,126,1,2.8,1,1,3,No Heart Disease
+56,Female,Asymptomatic,200,288,TRUE,0,133,1,4,0,2,3,No Heart Disease
+56,Male,Asymptomatic,130,283,TRUE,0,103,1,1.6,0,0,3,No Heart Disease
+64,Male,Asymptomatic,120,246,FALSE,0,96,1,2.2,0,1,2,No Heart Disease
+44,Male,Asymptomatic,110,197,FALSE,0,177,0,0,2,1,2,No Heart Disease
+56,Female,Asymptomatic,134,409,FALSE,0,150,1,1.9,1,2,3,No Heart Disease
+63,Male,Asymptomatic,140,187,FALSE,0,144,1,4,2,2,3,No Heart Disease
+64,Male,Typical angina,110,211,FALSE,0,144,1,1.8,1,0,2,Heart Disease
+60,Male,Asymptomatic,140,293,FALSE,0,170,0,1.2,1,2,3,No Heart Disease
+42,Male,Atypical angina,130,180,FALSE,1,150,0,0,2,0,2,Heart Disease
+45,Male,Non-anginal pain,128,308,FALSE,0,170,0,0,2,0,2,Heart Disease
+57,Male,Asymptomatic,165,289,TRUE,0,124,0,1,1,3,3,No Heart Disease
+40,Male,Asymptomatic,110,167,FALSE,0,114,1,2,1,0,3,No Heart Disease
+56,Male,Asymptomatic,125,249,TRUE,0,144,1,1.2,1,1,2,No Heart Disease
+63,Male,Asymptomatic,130,254,FALSE,0,147,0,1.4,1,1,3,No Heart Disease
+64,Male,Atypical angina,125,309,FALSE,1,131,1,1.8,1,0,3,No Heart Disease
+41,Male,Atypical angina,112,250,FALSE,1,179,0,0,2,0,2,Heart Disease
+56,Male,Non-anginal pain,130,221,FALSE,0,163,0,0,2,0,3,Heart Disease
+67,Female,Atypical angina,115,564,FALSE,0,160,0,1.6,1,0,3,Heart Disease
+69,Male,Typical angina,160,234,TRUE,0,131,0,0.1,1,1,2,Heart Disease
+67,Male,Asymptomatic,160,286,FALSE,0,108,1,1.5,1,3,2,No Heart Disease
+59,Male,Atypical angina,150,212,TRUE,1,157,0,1.6,2,0,2,Heart Disease
+58,Male,Asymptomatic,100,234,FALSE,1,156,0,0.1,2,1,3,No Heart Disease
+45,Male,Asymptomatic,115,260,FALSE,0,185,0,0,2,0,2,Heart Disease
+60,Female,Atypical angina,102,318,FALSE,1,160,0,0,2,1,2,Heart Disease
+50,Male,Asymptomatic,144,200,FALSE,0,126,1,0.9,1,0,3,No Heart Disease
+62,Female,Asymptomatic,124,209,FALSE,1,163,0,0,2,0,2,Heart Disease
+34,Male,Typical angina,118,182,FALSE,0,174,0,0,2,0,2,Heart Disease
+52,Male,Typical angina,152,298,TRUE,1,178,0,1.2,1,0,3,Heart Disease
+64,Male,Typical angina,170,227,FALSE,0,155,0,0.6,1,0,3,Heart Disease
+66,Female,Atypical angina,146,278,FALSE,0,152,0,0,1,1,2,Heart Disease
+42,Male,Typical angina,148,244,FALSE,0,178,0,0.8,2,2,2,Heart Disease
+59,Male,Atypical angina,126,218,TRUE,1,134,0,2.2,1,1,1,No Heart Disease
+41,Male,Atypical angina,112,250,FALSE,1,179,0,0,2,0,2,Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+62,Male,Non-anginal pain,120,281,FALSE,0,103,0,1.4,1,1,3,No Heart Disease
+42,Male,Atypical angina,120,240,TRUE,1,194,0,0.8,0,0,3,Heart Disease
+67,Male,Asymptomatic,100,299,FALSE,0,125,1,0.9,1,2,2,No Heart Disease
+50,Male,Asymptomatic,150,243,FALSE,0,128,0,2.6,1,0,3,No Heart Disease
+43,Male,Atypical angina,130,315,FALSE,1,162,0,1.9,2,1,2,Heart Disease
+45,Male,Non-anginal pain,128,308,FALSE,0,170,0,0,2,0,2,Heart Disease
+49,Male,Non-anginal pain,130,266,FALSE,1,171,0,0.6,2,0,2,Heart Disease
+65,Male,Asymptomatic,135,254,FALSE,0,127,0,2.8,1,1,3,No Heart Disease
+41,Male,Non-anginal pain,120,157,FALSE,1,182,0,0,2,0,2,Heart Disease
+46,Male,Asymptomatic,140,311,FALSE,1,120,1,1.8,1,2,3,No Heart Disease
+54,Male,Asymptomatic,122,286,FALSE,0,116,1,3.2,1,2,2,No Heart Disease
+57,Female,Non-anginal pain,130,236,FALSE,0,174,0,0,1,1,2,No Heart Disease
+63,Male,Asymptomatic,130,254,FALSE,0,147,0,1.4,1,1,3,No Heart Disease
+64,Male,Typical angina,110,211,FALSE,0,144,1,1.8,1,0,2,Heart Disease
+39,Female,Atypical angina,94,199,FALSE,1,179,0,0,2,0,2,Heart Disease
+51,Male,Asymptomatic,140,261,FALSE,0,186,1,0,2,0,2,Heart Disease
+54,Male,Atypical angina,150,232,FALSE,0,165,0,1.6,2,0,3,Heart Disease
+49,Male,Atypical angina,118,149,FALSE,0,126,0,0.8,2,3,2,No Heart Disease
+44,Female,Atypical angina,118,242,FALSE,1,149,0,0.3,1,1,2,Heart Disease
+52,Male,Non-anginal pain,128,205,TRUE,1,184,0,0,2,0,2,Heart Disease
+66,Female,Asymptomatic,178,228,TRUE,1,165,1,1,1,2,3,No Heart Disease
+58,Male,Asymptomatic,125,300,FALSE,0,171,0,0,2,2,3,No Heart Disease
+56,Male,Non-anginal pain,120,236,FALSE,1,178,0,0.8,2,0,2,Heart Disease
+60,Male,Asymptomatic,125,258,FALSE,0,141,1,2.8,1,1,3,No Heart Disease
+41,Female,Non-anginal pain,126,306,FALSE,1,163,0,0,2,0,2,Heart Disease
+49,Female,Asymptomatic,130,269,FALSE,1,163,0,0,2,0,2,Heart Disease
+64,Male,Typical angina,170,227,FALSE,0,155,0,0.6,1,0,3,Heart Disease
+49,Male,Atypical angina,118,149,FALSE,0,126,0,0.8,2,3,2,No Heart Disease
+57,Male,Non-anginal pain,124,261,FALSE,1,141,0,0.3,2,0,3,No Heart Disease
+60,Male,Asymptomatic,117,230,TRUE,1,160,1,1.4,2,2,3,No Heart Disease
+62,Female,Asymptomatic,150,244,FALSE,1,154,1,1.4,1,0,2,No Heart Disease
+54,Female,Non-anginal pain,132,288,TRUE,0,159,1,0,2,1,2,Heart Disease
+67,Male,Atypical angina,152,212,FALSE,0,150,0,0.8,1,0,3,No Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+60,Male,Atypical angina,140,185,FALSE,0,155,0,3,1,0,2,No Heart Disease
+51,Male,Atypical angina,125,245,TRUE,0,166,0,2.4,1,0,2,Heart Disease
+44,Male,Non-anginal pain,130,219,FALSE,0,188,0,0,2,0,2,Heart Disease
+54,Male,Non-anginal pain,192,283,FALSE,0,195,0,0,2,1,3,No Heart Disease
+46,Male,Asymptomatic,140,311,FALSE,1,120,1,1.8,1,2,3,No Heart Disease
+39,Female,Atypical angina,138,220,FALSE,1,152,0,0,1,0,2,Heart Disease
+42,Male,Atypical angina,130,180,FALSE,1,150,0,0,2,0,2,Heart Disease
+47,Male,Asymptomatic,110,275,FALSE,0,118,1,1,1,1,2,No Heart Disease
+45,Female,Non-anginal pain,112,160,FALSE,1,138,0,0,1,0,2,Heart Disease
+55,Male,Asymptomatic,132,353,FALSE,1,132,1,1.2,1,1,3,No Heart Disease
+57,Male,Asymptomatic,165,289,TRUE,0,124,0,1,1,3,3,No Heart Disease
+35,Male,Asymptomatic,120,198,FALSE,1,130,1,1.6,1,0,3,No Heart Disease
+62,Female,Asymptomatic,140,394,FALSE,0,157,0,1.2,1,0,2,Heart Disease
+35,Female,Asymptomatic,138,183,FALSE,1,182,0,1.4,2,0,2,Heart Disease
+64,Female,Asymptomatic,180,325,FALSE,1,154,1,0,2,0,2,Heart Disease
+38,Male,Typical angina,120,231,FALSE,1,182,1,3.8,1,0,3,No Heart Disease
+66,Male,Asymptomatic,120,302,FALSE,0,151,0,0.4,1,0,2,Heart Disease
+44,Male,Atypical angina,120,226,FALSE,1,169,0,0,2,0,2,Heart Disease
+54,Male,Atypical angina,150,232,FALSE,0,165,0,1.6,2,0,3,Heart Disease
+48,Male,Asymptomatic,122,222,FALSE,0,186,0,0,2,0,2,Heart Disease
+55,Female,Non-anginal pain,132,342,FALSE,1,166,0,1.2,2,0,2,Heart Disease
+58,Female,Asymptomatic,170,225,TRUE,0,146,1,2.8,1,2,1,No Heart Disease
+45,Male,Asymptomatic,104,208,FALSE,0,148,1,3,1,0,2,Heart Disease
+53,Male,Asymptomatic,123,282,FALSE,1,95,1,2,1,2,3,No Heart Disease
+67,Male,Asymptomatic,120,237,FALSE,1,71,0,1,1,0,2,No Heart Disease
+58,Male,Atypical angina,132,224,FALSE,0,173,0,3.2,2,2,3,No Heart Disease
+71,Female,Atypical angina,110,265,TRUE,0,130,0,0,2,1,2,Heart Disease
+43,Male,Asymptomatic,110,211,FALSE,1,161,0,0,2,0,3,Heart Disease
+44,Male,Non-anginal pain,120,263,FALSE,1,173,0,0,2,0,3,Heart Disease
+39,Female,Atypical angina,138,220,FALSE,1,152,0,0,1,0,2,Heart Disease
+54,Male,Asymptomatic,110,206,FALSE,0,108,1,0,1,1,2,No Heart Disease
+66,Male,Asymptomatic,160,228,FALSE,0,138,0,2.3,2,0,1,Heart Disease
+56,Male,Asymptomatic,130,283,TRUE,0,103,1,1.6,0,0,3,No Heart Disease
+57,Male,Asymptomatic,132,207,FALSE,1,168,1,0,2,0,3,Heart Disease
+44,Male,Non-anginal pain,130,219,FALSE,0,188,0,0,2,0,2,Heart Disease
+55,Male,Asymptomatic,160,289,FALSE,0,145,1,0.8,1,1,3,No Heart Disease
+41,Female,Non-anginal pain,105,198,FALSE,1,168,0,0,2,1,2,Heart Disease
+45,Female,Non-anginal pain,130,234,FALSE,0,175,0,0.6,1,0,2,Heart Disease
+35,Male,Non-anginal pain,122,192,FALSE,1,174,0,0,2,0,2,Heart Disease
+41,Female,Non-anginal pain,130,204,FALSE,0,172,0,1.4,2,0,2,Heart Disease
+64,Male,Typical angina,110,211,FALSE,0,144,1,1.8,1,0,2,Heart Disease
+58,Male,Atypical angina,132,224,FALSE,0,173,0,3.2,2,2,3,No Heart Disease
+71,Female,Atypical angina,110,265,TRUE,0,130,0,0,2,1,2,Heart Disease
+64,Female,Atypical angina,140,313,FALSE,1,133,0,0.2,2,0,3,Heart Disease
+71,Female,Non-anginal pain,160,302,FALSE,1,162,0,0.4,2,2,2,Heart Disease
+58,Female,Atypical angina,120,340,FALSE,1,172,0,0,2,0,2,Heart Disease
+40,Male,Asymptomatic,152,223,FALSE,1,181,0,0,2,0,3,No Heart Disease
+52,Male,Atypical angina,138,223,FALSE,1,169,0,0,2,4,2,Heart Disease
+58,Male,Asymptomatic,128,259,FALSE,0,130,1,3,1,2,3,No Heart Disease
+61,Male,Atypical angina,150,243,TRUE,1,137,1,1,1,0,2,Heart Disease
+59,Male,Atypical angina,150,212,TRUE,1,157,0,1.6,2,0,2,Heart Disease
+56,Female,Asymptomatic,200,288,TRUE,0,133,1,4,0,2,3,No Heart Disease
+67,Male,Asymptomatic,100,299,FALSE,0,125,1,0.9,1,2,2,No Heart Disease
+67,Male,Asymptomatic,120,237,FALSE,1,71,0,1,1,0,2,No Heart Disease
+58,Male,Asymptomatic,150,270,FALSE,0,111,1,0.8,2,0,3,No Heart Disease
+35,Male,Non-anginal pain,122,192,FALSE,1,174,0,0,2,0,2,Heart Disease
+52,Male,Non-anginal pain,120,325,FALSE,1,172,0,0.2,2,0,2,Heart Disease
+46,Female,Non-anginal pain,105,204,FALSE,1,172,0,0,2,0,2,Heart Disease
+51,Male,Atypical angina,94,227,FALSE,1,154,1,0,2,1,3,Heart Disease
+55,Female,Non-anginal pain,132,342,FALSE,1,166,0,1.2,2,0,2,Heart Disease
+60,Male,Asymptomatic,145,282,FALSE,0,142,1,2.8,1,2,3,No Heart Disease
+52,Female,Atypical angina,136,196,FALSE,0,169,0,0.1,1,0,2,Heart Disease
+62,Male,Asymptomatic,120,267,FALSE,1,99,1,1.8,1,2,3,No Heart Disease
+44,Female,Atypical angina,118,242,FALSE,1,149,0,0.3,1,1,2,Heart Disease
+44,Male,Non-anginal pain,120,220,FALSE,1,170,0,0,2,0,2,Heart Disease
+59,Male,Atypical angina,126,218,TRUE,1,134,0,2.2,1,1,1,No Heart Disease
+56,Female,Non-anginal pain,140,294,FALSE,0,153,0,1.3,1,0,2,Heart Disease
+61,Male,Asymptomatic,120,260,FALSE,1,140,1,3.6,1,1,3,No Heart Disease
+48,Male,Asymptomatic,130,256,TRUE,0,150,1,0,2,2,3,No Heart Disease
+70,Male,Atypical angina,160,269,FALSE,1,112,1,2.9,1,1,3,No Heart Disease
+74,Female,Non-anginal pain,120,269,FALSE,0,121,1,0.2,2,1,2,Heart Disease
+40,Male,Typical angina,140,199,FALSE,1,178,1,1.4,2,0,3,Heart Disease
+42,Male,Typical angina,148,244,FALSE,0,178,0,0.8,2,2,2,Heart Disease
+64,Female,Atypical angina,140,313,FALSE,1,133,0,0.2,2,0,3,Heart Disease
+63,Female,Atypical angina,135,252,FALSE,0,172,0,0,2,0,2,Heart Disease
+59,Male,Asymptomatic,140,177,FALSE,1,162,1,0,2,1,3,No Heart Disease
+53,Female,Atypical angina,128,216,FALSE,0,115,0,0,2,0,0,Heart Disease
+53,Female,Asymptomatic,130,264,FALSE,0,143,0,0.4,1,0,2,Heart Disease
+48,Female,Atypical angina,130,275,FALSE,1,139,0,0.2,2,0,2,Heart Disease
+45,Male,Asymptomatic,142,309,FALSE,0,147,1,0,1,3,3,No Heart Disease
+66,Male,Non-anginal pain,160,246,FALSE,1,120,1,0,1,3,1,No Heart Disease
+48,Male,Non-anginal pain,130,245,FALSE,0,180,0,0.2,1,0,2,Heart Disease
+56,Female,Non-anginal pain,140,294,FALSE,0,153,0,1.3,1,0,2,Heart Disease
+54,Male,Non-anginal pain,192,283,FALSE,0,195,0,0,2,1,3,No Heart Disease
+57,Male,Asymptomatic,150,276,FALSE,0,112,1,0.6,1,1,1,No Heart Disease
+70,Male,Asymptomatic,130,322,FALSE,0,109,0,2.4,1,3,2,No Heart Disease
+53,Female,Atypical angina,128,216,FALSE,0,115,0,0,2,0,0,Heart Disease
+37,Female,Atypical angina,120,215,FALSE,1,170,0,0,2,0,2,Heart Disease
+63,Female,Asymptomatic,108,269,FALSE,1,169,1,1.8,1,2,2,No Heart Disease
+37,Male,Atypical angina,130,250,FALSE,1,187,0,3.5,0,0,2,Heart Disease
+54,Female,Atypical angina,110,214,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+60,Male,Asymptomatic,130,206,FALSE,0,132,1,2.4,1,2,3,No Heart Disease
+58,Male,Asymptomatic,150,270,FALSE,0,111,1,0.8,2,0,3,No Heart Disease
+57,Male,Atypical angina,150,126,TRUE,1,173,0,0.2,2,1,3,Heart Disease
+54,Male,Atypical angina,125,273,FALSE,0,152,0,0.5,0,1,2,Heart Disease
+56,Male,Atypical angina,130,256,TRUE,0,142,1,0.6,1,1,1,No Heart Disease
+60,Male,Asymptomatic,130,253,FALSE,1,144,1,1.4,2,1,3,No Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+44,Male,Atypical angina,120,226,FALSE,1,169,0,0,2,0,2,Heart Disease
+65,Female,Atypical angina,155,269,FALSE,1,148,0,0.8,2,0,2,Heart Disease
+52,Male,Atypical angina,172,199,TRUE,1,162,0,0.5,2,0,3,Heart Disease
+41,Male,Non-anginal pain,120,157,FALSE,1,182,0,0,2,0,2,Heart Disease
+66,Male,Non-anginal pain,160,246,FALSE,1,120,1,0,1,3,1,No Heart Disease
+50,Male,Asymptomatic,150,243,FALSE,0,128,0,2.6,1,0,3,No Heart Disease
+54,Female,Atypical angina,108,267,FALSE,0,167,0,0,2,0,2,Heart Disease
+43,Male,Asymptomatic,132,247,TRUE,0,143,1,0.1,1,4,3,No Heart Disease
+62,Female,Atypical angina,130,263,FALSE,1,97,0,1.2,1,1,3,No Heart Disease
+66,Male,Asymptomatic,120,302,FALSE,0,151,0,0.4,1,0,2,Heart Disease
+50,Male,Asymptomatic,144,200,FALSE,0,126,1,0.9,1,0,3,No Heart Disease
+57,Male,Asymptomatic,110,335,FALSE,1,143,1,3,1,1,3,No Heart Disease
+57,Male,Asymptomatic,110,201,FALSE,1,126,1,1.5,1,0,1,Heart Disease
+57,Male,Non-anginal pain,124,261,FALSE,1,141,0,0.3,2,0,3,No Heart Disease
+46,Female,Asymptomatic,138,243,FALSE,0,152,1,0,1,0,2,Heart Disease
+59,Male,Asymptomatic,164,176,TRUE,0,90,0,1,1,2,1,No Heart Disease
+67,Male,Asymptomatic,160,286,FALSE,0,108,1,1.5,1,3,2,No Heart Disease
+59,Male,Typical angina,134,204,FALSE,1,162,0,0.8,2,2,2,No Heart Disease
+53,Female,Atypical angina,128,216,FALSE,0,115,0,0,2,0,0,Heart Disease
+48,Male,Asymptomatic,122,222,FALSE,0,186,0,0,2,0,2,Heart Disease
+62,Male,Atypical angina,130,231,FALSE,1,146,0,1.8,1,3,3,Heart Disease
+43,Female,Atypical angina,122,213,FALSE,1,165,0,0.2,1,0,2,Heart Disease
+53,Male,Atypical angina,130,246,TRUE,0,173,0,0,2,3,2,Heart Disease
+57,Female,Non-anginal pain,130,236,FALSE,0,174,0,0,1,1,2,No Heart Disease
+53,Male,Atypical angina,130,246,TRUE,0,173,0,0,2,3,2,Heart Disease
+58,Male,Atypical angina,112,230,FALSE,0,165,0,2.5,1,1,3,No Heart Disease
+48,Male,Non-anginal pain,110,229,FALSE,1,168,0,1,0,0,3,No Heart Disease
+58,Male,Atypical angina,105,240,FALSE,0,154,1,0.6,1,0,3,Heart Disease
+51,Male,Atypical angina,110,175,FALSE,1,123,0,0.6,2,0,2,Heart Disease
+43,Female,Asymptomatic,132,341,TRUE,0,136,1,3,1,0,3,No Heart Disease
+55,Male,Asymptomatic,132,353,FALSE,1,132,1,1.2,1,1,3,No Heart Disease
+54,Female,Atypical angina,110,214,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+58,Male,Non-anginal pain,120,284,FALSE,0,160,0,1.8,1,0,2,No Heart Disease
+46,Female,Atypical angina,142,177,FALSE,0,160,1,1.4,0,0,2,Heart Disease
+66,Male,Asymptomatic,160,228,FALSE,0,138,0,2.3,2,0,1,Heart Disease
+59,Male,Non-anginal pain,140,221,FALSE,1,164,1,0,2,0,2,Heart Disease
+64,Female,Asymptomatic,130,303,FALSE,1,122,0,2,1,2,2,Heart Disease
+67,Male,Asymptomatic,120,237,FALSE,1,71,0,1,1,0,2,No Heart Disease
+52,Male,Typical angina,118,186,FALSE,0,190,0,0,1,0,1,Heart Disease
+58,Male,Asymptomatic,146,218,FALSE,1,105,0,2,1,1,3,No Heart Disease
+58,Male,Atypical angina,132,224,FALSE,0,173,0,3.2,2,2,3,No Heart Disease
+59,Male,Asymptomatic,110,239,FALSE,0,142,1,1.2,1,1,3,No Heart Disease
+58,Male,Asymptomatic,150,270,FALSE,0,111,1,0.8,2,0,3,No Heart Disease
+35,Male,Asymptomatic,126,282,FALSE,0,156,1,0,2,0,3,No Heart Disease
+51,Male,Atypical angina,110,175,FALSE,1,123,0,0.6,2,0,2,Heart Disease
+42,Female,Atypical angina,120,209,FALSE,1,173,0,0,1,0,2,Heart Disease
+77,Male,Asymptomatic,125,304,FALSE,0,162,1,0,2,3,2,No Heart Disease
+64,Male,Asymptomatic,120,246,FALSE,0,96,1,2.2,0,1,2,No Heart Disease
+63,Male,Typical angina,145,233,TRUE,0,150,0,2.3,0,0,1,Heart Disease
+58,Female,Non-anginal pain,136,319,TRUE,0,152,0,0,2,2,2,No Heart Disease
+45,Male,Typical angina,110,264,FALSE,1,132,0,1.2,1,0,3,No Heart Disease
+51,Male,Atypical angina,110,175,FALSE,1,123,0,0.6,2,0,2,Heart Disease
+62,Female,Asymptomatic,160,164,FALSE,0,145,0,6.2,0,3,3,No Heart Disease
+63,Male,Asymptomatic,130,330,TRUE,0,132,1,1.8,2,3,3,No Heart Disease
+66,Female,Atypical angina,146,278,FALSE,0,152,0,0,1,1,2,Heart Disease
+68,Male,Atypical angina,180,274,TRUE,0,150,1,1.6,1,0,3,No Heart Disease
+40,Male,Asymptomatic,110,167,FALSE,0,114,1,2,1,0,3,No Heart Disease
+66,Male,Asymptomatic,160,228,FALSE,0,138,0,2.3,2,0,1,Heart Disease
+63,Male,Typical angina,145,233,TRUE,0,150,0,2.3,0,0,1,Heart Disease
+49,Male,Atypical angina,120,188,FALSE,1,139,0,2,1,3,3,No Heart Disease
+71,Female,Asymptomatic,112,149,FALSE,1,125,0,1.6,1,0,2,Heart Disease
+70,Male,Non-anginal pain,156,245,FALSE,0,143,0,0,2,0,2,Heart Disease
+46,Female,Non-anginal pain,105,204,FALSE,1,172,0,0,2,0,2,Heart Disease
+61,Male,Asymptomatic,140,207,FALSE,0,138,1,1.9,2,1,3,No Heart Disease
+56,Male,Atypical angina,130,256,TRUE,0,142,1,0.6,1,1,1,No Heart Disease
+58,Male,Atypical angina,140,211,TRUE,0,165,0,0,2,0,2,Heart Disease
+58,Male,Asymptomatic,100,234,FALSE,1,156,0,0.1,2,1,3,No Heart Disease
+46,Female,Asymptomatic,138,243,FALSE,0,152,1,0,1,0,2,Heart Disease
+46,Male,Atypical angina,150,231,FALSE,1,147,0,3.6,1,0,2,No Heart Disease
+41,Female,Non-anginal pain,105,198,FALSE,1,168,0,0,2,1,2,Heart Disease
+56,Male,Asymptomatic,125,249,TRUE,0,144,1,1.2,1,1,2,No Heart Disease
+57,Male,Asymptomatic,150,276,FALSE,0,112,1,0.6,1,1,1,No Heart Disease
+70,Male,Asymptomatic,130,322,FALSE,0,109,0,2.4,1,3,2,No Heart Disease
+59,Male,Typical angina,170,288,FALSE,0,159,0,0.2,1,0,3,No Heart Disease
+41,Female,Non-anginal pain,130,204,FALSE,0,172,0,1.4,2,0,2,Heart Disease
+54,Male,Atypical angina,125,273,FALSE,0,152,0,0.5,0,1,2,Heart Disease
+52,Male,Atypical angina,138,223,FALSE,1,169,0,0,2,4,2,Heart Disease
+62,Female,Asymptomatic,124,209,FALSE,1,163,0,0,2,0,2,Heart Disease
+65,Female,Atypical angina,160,360,FALSE,0,151,0,0.8,2,0,2,Heart Disease
+57,Female,Asymptomatic,128,303,FALSE,0,159,0,0,2,1,2,Heart Disease
+42,Female,Asymptomatic,102,265,FALSE,0,122,0,0.6,1,0,2,Heart Disease
+57,Female,Asymptomatic,120,354,FALSE,1,163,1,0.6,2,0,2,Heart Disease
+58,Female,Non-anginal pain,136,319,TRUE,0,152,0,0,2,2,2,No Heart Disease
+45,Male,Asymptomatic,142,309,FALSE,0,147,1,0,1,3,3,No Heart Disease
+51,Female,Asymptomatic,130,305,FALSE,1,142,1,1.2,1,0,3,No Heart Disease
+54,Female,Atypical angina,160,201,FALSE,1,163,0,0,2,1,2,Heart Disease
+57,Male,Atypical angina,150,168,FALSE,1,174,0,1.6,2,0,2,Heart Disease
+43,Male,Asymptomatic,132,247,TRUE,0,143,1,0.1,1,4,3,No Heart Disease
+47,Male,Atypical angina,108,243,FALSE,1,152,0,0,2,0,2,No Heart Disease
+67,Male,Atypical angina,152,212,FALSE,0,150,0,0.8,1,0,3,No Heart Disease
+65,Female,Asymptomatic,150,225,FALSE,0,114,0,1,1,3,3,No Heart Disease
+60,Female,Atypical angina,102,318,FALSE,1,160,0,0,2,1,2,Heart Disease
+37,Male,Atypical angina,130,250,FALSE,1,187,0,3.5,0,0,2,Heart Disease
+41,Female,Atypical angina,112,268,FALSE,0,172,1,0,2,0,2,Heart Disease
+57,Female,Asymptomatic,120,354,FALSE,1,163,1,0.6,2,0,2,Heart Disease
+59,Female,Asymptomatic,174,249,FALSE,1,143,1,0,1,0,2,No Heart Disease
+67,Male,Asymptomatic,120,229,FALSE,0,129,1,2.6,1,2,3,No Heart Disease
+47,Male,Atypical angina,130,253,FALSE,1,179,0,0,2,0,2,Heart Disease
+58,Male,Non-anginal pain,120,284,FALSE,0,160,0,1.8,1,0,2,No Heart Disease
+62,Female,Asymptomatic,150,244,FALSE,1,154,1,1.4,1,0,2,No Heart Disease
+60,Male,Asymptomatic,140,293,FALSE,0,170,0,1.2,1,2,3,No Heart Disease
+57,Male,Asymptomatic,152,274,FALSE,1,88,1,1.2,1,1,3,No Heart Disease
+57,Male,Atypical angina,150,168,FALSE,1,174,0,1.6,2,0,2,Heart Disease
+47,Male,Atypical angina,130,253,FALSE,1,179,0,0,2,0,2,Heart Disease
+52,Male,Non-anginal pain,128,205,TRUE,1,184,0,0,2,0,2,Heart Disease
+53,Male,Atypical angina,130,246,TRUE,0,173,0,0,2,3,2,Heart Disease
+55,Male,Asymptomatic,160,289,FALSE,0,145,1,0.8,1,1,3,No Heart Disease
+51,Female,Atypical angina,120,295,FALSE,0,157,0,0.6,2,0,2,Heart Disease
+52,Male,Asymptomatic,112,230,FALSE,1,160,0,0,2,1,2,No Heart Disease
+63,Female,Asymptomatic,150,407,FALSE,0,154,0,4,1,3,3,No Heart Disease
+49,Female,Non-anginal pain,134,271,FALSE,1,162,0,0,1,0,2,Heart Disease
+66,Female,Asymptomatic,178,228,TRUE,1,165,1,1,1,2,3,No Heart Disease
+49,Female,Non-anginal pain,134,271,FALSE,1,162,0,0,1,0,2,Heart Disease
+65,Female,Asymptomatic,150,225,FALSE,0,114,0,1,1,3,3,No Heart Disease
+69,Male,Typical angina,160,234,TRUE,0,131,0,0.1,1,1,2,Heart Disease
+47,Male,Atypical angina,108,243,FALSE,1,152,0,0,2,0,2,No Heart Disease
+39,Female,Atypical angina,138,220,FALSE,1,152,0,0,1,0,2,Heart Disease
+43,Male,Asymptomatic,150,247,FALSE,1,171,0,1.5,2,0,2,Heart Disease
+51,Male,Asymptomatic,140,261,FALSE,0,186,1,0,2,0,2,Heart Disease
+69,Male,Atypical angina,140,254,FALSE,0,146,0,2,1,3,3,No Heart Disease
+48,Male,Atypical angina,124,255,TRUE,1,175,0,0,2,2,2,Heart Disease
+52,Male,Typical angina,118,186,FALSE,0,190,0,0,1,0,1,Heart Disease
+43,Male,Asymptomatic,110,211,FALSE,1,161,0,0,2,0,3,Heart Disease
+67,Female,Atypical angina,115,564,FALSE,0,160,0,1.6,1,0,3,Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+44,Male,Non-anginal pain,130,219,FALSE,0,188,0,0,2,0,2,Heart Disease
+47,Male,Asymptomatic,110,275,FALSE,0,118,1,1,1,1,2,No Heart Disease
+61,Male,Atypical angina,150,243,TRUE,1,137,1,1,1,0,2,Heart Disease
+67,Male,Asymptomatic,160,286,FALSE,0,108,1,1.5,1,3,2,No Heart Disease
+60,Female,Typical angina,150,240,FALSE,1,171,0,0.9,2,0,2,Heart Disease
+64,Female,Atypical angina,140,313,FALSE,1,133,0,0.2,2,0,3,Heart Disease
+58,Female,Asymptomatic,130,197,FALSE,1,131,0,0.6,1,0,2,Heart Disease
+41,Male,Atypical angina,130,214,FALSE,0,168,0,2,1,0,2,Heart Disease
+48,Male,Non-anginal pain,110,229,FALSE,1,168,0,1,0,0,3,No Heart Disease
+57,Male,Atypical angina,150,126,TRUE,1,173,0,0.2,2,1,3,Heart Disease
+57,Male,Asymptomatic,165,289,TRUE,0,124,0,1,1,3,3,No Heart Disease
+57,Male,Atypical angina,128,229,FALSE,0,150,0,0.4,1,1,3,No Heart Disease
+39,Male,Atypical angina,140,321,FALSE,0,182,0,0,2,0,2,Heart Disease
+58,Male,Asymptomatic,128,216,FALSE,0,131,1,2.2,1,3,3,No Heart Disease
+51,Female,Asymptomatic,130,305,FALSE,1,142,1,1.2,1,0,3,No Heart Disease
+63,Female,Asymptomatic,150,407,FALSE,0,154,0,4,1,3,3,No Heart Disease
+51,Male,Asymptomatic,140,298,FALSE,1,122,1,4.2,1,3,3,No Heart Disease
+35,Male,Non-anginal pain,122,192,FALSE,1,174,0,0,2,0,2,Heart Disease
+65,Male,Asymptomatic,110,248,FALSE,0,158,0,0.6,2,2,1,No Heart Disease
+62,Male,Non-anginal pain,120,281,FALSE,0,103,0,1.4,1,1,3,No Heart Disease
+41,Male,Asymptomatic,110,172,FALSE,0,158,0,0,2,0,3,No Heart Disease
+65,Male,Asymptomatic,135,254,FALSE,0,127,0,2.8,1,1,3,No Heart Disease
+54,Female,Non-anginal pain,132,288,TRUE,0,159,1,0,2,1,2,Heart Disease
+61,Male,Atypical angina,150,243,TRUE,1,137,1,1,1,0,2,Heart Disease
+57,Female,Asymptomatic,128,303,FALSE,0,159,0,0,2,1,2,Heart Disease
+57,Male,Atypical angina,150,168,FALSE,1,174,0,1.6,2,0,2,Heart Disease
+64,Male,Atypical angina,125,309,FALSE,1,131,1,1.8,1,0,3,No Heart Disease
+55,Male,Asymptomatic,132,353,FALSE,1,132,1,1.2,1,1,3,No Heart Disease
+51,Male,Atypical angina,125,245,TRUE,0,166,0,2.4,1,0,2,Heart Disease
+59,Male,Asymptomatic,135,234,FALSE,1,161,0,0.5,1,0,3,Heart Disease
+68,Male,Atypical angina,180,274,TRUE,0,150,1,1.6,1,0,3,No Heart Disease
+57,Male,Non-anginal pain,154,232,FALSE,0,164,0,0,2,1,2,No Heart Disease
+54,Male,Asymptomatic,140,239,FALSE,1,160,0,1.2,2,0,2,Heart Disease
+46,Female,Atypical angina,142,177,FALSE,0,160,1,1.4,0,0,2,Heart Disease
+71,Female,Asymptomatic,112,149,FALSE,1,125,0,1.6,1,0,2,Heart Disease
+35,Female,Asymptomatic,138,183,FALSE,1,182,0,1.4,2,0,2,Heart Disease
+46,Female,Atypical angina,142,177,FALSE,0,160,1,1.4,0,0,2,Heart Disease
+45,Female,Non-anginal pain,130,234,FALSE,0,175,0,0.6,1,0,2,Heart Disease
+47,Male,Atypical angina,108,243,FALSE,1,152,0,0,2,0,2,No Heart Disease
+44,Female,Atypical angina,118,242,FALSE,1,149,0,0.3,1,1,2,Heart Disease
+61,Male,Asymptomatic,120,260,FALSE,1,140,1,3.6,1,1,3,No Heart Disease
+41,Female,Non-anginal pain,130,204,FALSE,0,172,0,1.4,2,0,2,Heart Disease
+56,Female,Asymptomatic,200,288,TRUE,0,133,1,4,0,2,3,No Heart Disease
+55,Female,Asymptomatic,180,327,FALSE,2,117,1,3.4,1,0,2,No Heart Disease
+54,Female,Non-anginal pain,132,288,TRUE,0,159,1,0,2,1,2,Heart Disease
+43,Male,Asymptomatic,120,177,FALSE,0,120,1,2.5,1,0,3,No Heart Disease
+44,Male,Asymptomatic,112,290,FALSE,0,153,0,0,2,1,2,No Heart Disease
+54,Male,Asymptomatic,110,206,FALSE,0,108,1,0,1,1,2,No Heart Disease
+44,Male,Non-anginal pain,120,220,FALSE,1,170,0,0,2,0,2,Heart Disease
+49,Male,Atypical angina,120,188,FALSE,1,139,0,2,1,3,3,No Heart Disease
+60,Male,Asymptomatic,130,206,FALSE,0,132,1,2.4,1,2,3,No Heart Disease
+41,Female,Non-anginal pain,105,198,FALSE,1,168,0,0,2,1,2,Heart Disease
+49,Male,Atypical angina,120,188,FALSE,1,139,0,2,1,3,3,No Heart Disease
+61,Male,Asymptomatic,148,203,FALSE,1,161,0,0,2,1,3,No Heart Disease
+59,Male,Asymptomatic,140,177,FALSE,1,162,1,0,2,1,3,No Heart Disease
+58,Male,Non-anginal pain,125,220,FALSE,1,144,0,0.4,1,4,3,Heart Disease
+67,Female,Atypical angina,152,277,FALSE,1,172,0,0,2,1,2,Heart Disease
+61,Male,Asymptomatic,148,203,FALSE,1,161,0,0,2,1,3,No Heart Disease
+58,Male,Atypical angina,112,230,FALSE,0,165,0,2.5,1,1,3,No Heart Disease
+51,Female,Atypical angina,130,256,FALSE,0,149,0,0.5,2,0,2,Heart Disease
+62,Female,Asymptomatic,160,164,FALSE,0,145,0,6.2,0,3,3,No Heart Disease
+62,Female,Asymptomatic,124,209,FALSE,1,163,0,0,2,0,2,Heart Disease
+59,Male,Typical angina,178,270,FALSE,0,145,0,4.2,0,0,3,Heart Disease
+69,Male,Typical angina,160,234,TRUE,0,131,0,0.1,1,1,2,Heart Disease
+60,Female,Asymptomatic,150,258,FALSE,0,157,0,2.6,1,2,3,No Heart Disease
+65,Female,Atypical angina,155,269,FALSE,1,148,0,0.8,2,0,2,Heart Disease
+63,Female,Asymptomatic,124,197,FALSE,1,136,1,0,1,0,2,No Heart Disease
+53,Female,Asymptomatic,138,234,FALSE,0,160,0,0,2,0,2,Heart Disease
+54,Female,Atypical angina,108,267,FALSE,0,167,0,0,2,0,2,Heart Disease
+76,Female,Atypical angina,140,197,FALSE,2,116,0,1.1,1,0,2,Heart Disease
+50,Female,Atypical angina,120,219,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+52,Male,Non-anginal pain,120,325,FALSE,1,172,0,0.2,2,0,2,Heart Disease
+46,Male,Asymptomatic,120,249,FALSE,0,144,0,0.8,2,0,3,No Heart Disease
+64,Male,Typical angina,170,227,FALSE,0,155,0,0.6,1,0,3,Heart Disease
+58,Male,Asymptomatic,128,259,FALSE,0,130,1,3,1,2,3,No Heart Disease
+44,Male,Atypical angina,140,235,FALSE,0,180,0,0,2,0,2,Heart Disease
+62,Female,Asymptomatic,140,394,FALSE,0,157,0,1.2,1,0,2,Heart Disease
+59,Male,Typical angina,134,204,FALSE,1,162,0,0.8,2,2,2,No Heart Disease
+54,Male,Atypical angina,125,273,FALSE,0,152,0,0.5,0,1,2,Heart Disease
+48,Male,Non-anginal pain,110,229,FALSE,1,168,0,1,0,0,3,No Heart Disease
+70,Male,Asymptomatic,130,322,FALSE,0,109,0,2.4,1,3,2,No Heart Disease
+67,Female,Asymptomatic,106,223,FALSE,1,142,0,0.3,2,2,2,Heart Disease
+51,Female,Atypical angina,120,295,FALSE,0,157,0,0.6,2,0,2,Heart Disease
+68,Male,Atypical angina,118,277,FALSE,1,151,0,1,2,1,3,Heart Disease
+69,Male,Atypical angina,140,254,FALSE,0,146,0,2,1,3,3,No Heart Disease
+54,Male,Asymptomatic,122,286,FALSE,0,116,1,3.2,1,2,2,No Heart Disease
+43,Female,Asymptomatic,132,341,TRUE,0,136,1,3,1,0,3,No Heart Disease
+53,Male,Atypical angina,130,197,TRUE,0,152,0,1.2,0,0,2,Heart Disease
+58,Male,Asymptomatic,100,234,FALSE,1,156,0,0.1,2,1,3,No Heart Disease
+67,Male,Asymptomatic,125,254,TRUE,1,163,0,0.2,1,2,3,No Heart Disease
+59,Male,Asymptomatic,140,177,FALSE,1,162,1,0,2,1,3,No Heart Disease
+48,Male,Asymptomatic,122,222,FALSE,0,186,0,0,2,0,2,Heart Disease
+39,Female,Atypical angina,94,199,FALSE,1,179,0,0,2,0,2,Heart Disease
+67,Male,Asymptomatic,120,237,FALSE,1,71,0,1,1,0,2,No Heart Disease
+58,Female,Asymptomatic,130,197,FALSE,1,131,0,0.6,1,0,2,Heart Disease
+65,Female,Atypical angina,155,269,FALSE,1,148,0,0.8,2,0,2,Heart Disease
+42,Female,Atypical angina,120,209,FALSE,1,173,0,0,1,0,2,Heart Disease
+44,Male,Asymptomatic,112,290,FALSE,0,153,0,0,2,1,2,No Heart Disease
+56,Male,Asymptomatic,132,184,FALSE,0,105,1,2.1,1,1,1,No Heart Disease
+53,Female,Asymptomatic,138,234,FALSE,0,160,0,0,2,0,2,Heart Disease
+50,Female,Asymptomatic,110,254,FALSE,0,159,0,0,2,0,2,Heart Disease
+41,Male,Atypical angina,130,214,FALSE,0,168,0,2,1,0,2,Heart Disease
+54,Female,Atypical angina,160,201,FALSE,1,163,0,0,2,1,2,Heart Disease
+42,Male,Atypical angina,120,240,TRUE,1,194,0,0.8,0,0,3,Heart Disease
+54,Female,Atypical angina,135,304,TRUE,1,170,0,0,2,0,2,Heart Disease
+60,Male,Asymptomatic,145,282,FALSE,0,142,1,2.8,1,2,3,No Heart Disease
+34,Male,Typical angina,118,182,FALSE,0,174,0,0,2,0,2,Heart Disease
+44,Male,Asymptomatic,112,290,FALSE,0,153,0,0,2,1,2,No Heart Disease
+60,Male,Asymptomatic,125,258,FALSE,0,141,1,2.8,1,1,3,No Heart Disease
+43,Male,Asymptomatic,150,247,FALSE,1,171,0,1.5,2,0,2,Heart Disease
+52,Male,Typical angina,152,298,TRUE,1,178,0,1.2,1,0,3,Heart Disease
+70,Male,Asymptomatic,130,322,FALSE,0,109,0,2.4,1,3,2,No Heart Disease
+62,Female,Asymptomatic,140,394,FALSE,0,157,0,1.2,1,0,2,Heart Disease
+58,Male,Asymptomatic,146,218,FALSE,1,105,0,2,1,1,3,No Heart Disease
+46,Male,Non-anginal pain,101,197,TRUE,1,156,0,0,2,0,3,Heart Disease
+44,Male,Atypical angina,140,235,FALSE,0,180,0,0,2,0,2,Heart Disease
+55,Male,Non-anginal pain,130,262,FALSE,1,155,0,0,2,0,2,Heart Disease
+43,Male,Asymptomatic,120,177,FALSE,0,120,1,2.5,1,0,3,No Heart Disease
+55,Male,Asymptomatic,132,353,FALSE,1,132,1,1.2,1,1,3,No Heart Disease
+40,Male,Typical angina,140,199,FALSE,1,178,1,1.4,2,0,3,Heart Disease
+64,Male,Atypical angina,125,309,FALSE,1,131,1,1.8,1,0,3,No Heart Disease
+59,Male,Asymptomatic,164,176,TRUE,0,90,0,1,1,2,1,No Heart Disease
+61,Female,Asymptomatic,145,307,FALSE,0,146,1,1,1,0,3,No Heart Disease
+54,Male,Asymptomatic,122,286,FALSE,0,116,1,3.2,1,2,2,No Heart Disease
+74,Female,Non-anginal pain,120,269,FALSE,0,121,1,0.2,2,1,2,Heart Disease
+63,Female,Asymptomatic,108,269,FALSE,1,169,1,1.8,1,2,2,No Heart Disease
+70,Male,Atypical angina,160,269,FALSE,1,112,1,2.9,1,1,3,No Heart Disease
+63,Female,Asymptomatic,108,269,FALSE,1,169,1,1.8,1,2,2,No Heart Disease
+64,Male,Asymptomatic,145,212,FALSE,0,132,0,2,1,2,1,No Heart Disease
+61,Male,Asymptomatic,148,203,FALSE,1,161,0,0,2,1,3,No Heart Disease
+59,Male,Non-anginal pain,140,221,FALSE,1,164,1,0,2,0,2,Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+58,Male,Non-anginal pain,120,284,FALSE,0,160,0,1.8,1,0,2,No Heart Disease
+63,Female,Non-anginal pain,140,195,FALSE,1,179,0,0,2,2,2,Heart Disease
+62,Female,Atypical angina,130,263,FALSE,1,97,0,1.2,1,1,3,No Heart Disease
+46,Male,Asymptomatic,140,311,FALSE,1,120,1,1.8,1,2,3,No Heart Disease
+58,Female,Atypical angina,120,340,FALSE,1,172,0,0,2,0,2,Heart Disease
+63,Female,Non-anginal pain,140,195,FALSE,1,179,0,0,2,2,2,Heart Disease
+47,Male,Atypical angina,130,253,FALSE,1,179,0,0,2,0,2,Heart Disease
+71,Female,Atypical angina,110,265,TRUE,0,130,0,0,2,1,2,Heart Disease
+66,Male,Asymptomatic,112,212,FALSE,0,132,1,0.1,2,1,2,No Heart Disease
+42,Male,Asymptomatic,136,315,FALSE,1,125,1,1.8,1,0,1,No Heart Disease
+64,Male,Asymptomatic,145,212,FALSE,0,132,0,2,1,2,1,No Heart Disease
+55,Female,Asymptomatic,180,327,FALSE,2,117,1,3.4,1,0,2,No Heart Disease
+43,Female,Asymptomatic,132,341,TRUE,0,136,1,3,1,0,3,No Heart Disease
+55,Female,Asymptomatic,128,205,FALSE,2,130,1,2,1,1,3,No Heart Disease
+58,Female,Asymptomatic,170,225,TRUE,0,146,1,2.8,1,2,1,No Heart Disease
+55,Male,Asymptomatic,140,217,FALSE,1,111,1,5.6,0,0,3,No Heart Disease
+51,Female,Asymptomatic,130,305,FALSE,1,142,1,1.2,1,0,3,No Heart Disease
+50,Female,Atypical angina,120,219,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+43,Male,Asymptomatic,115,303,FALSE,1,181,0,1.2,1,0,2,Heart Disease
+41,Female,Non-anginal pain,126,306,FALSE,1,163,0,0,2,0,2,Heart Disease
+49,Male,Non-anginal pain,130,266,FALSE,1,171,0,0.6,2,0,2,Heart Disease
+65,Male,Asymptomatic,110,248,FALSE,0,158,0,0.6,2,2,1,No Heart Disease
+57,Male,Asymptomatic,152,274,FALSE,1,88,1,1.2,1,1,3,No Heart Disease
+48,Male,Asymptomatic,130,256,TRUE,0,150,1,0,2,2,3,No Heart Disease
+62,Female,Asymptomatic,138,294,TRUE,1,106,0,1.9,1,3,2,No Heart Disease
+61,Male,Typical angina,134,234,FALSE,1,145,0,2.6,1,2,2,No Heart Disease
+59,Male,Typical angina,178,270,FALSE,0,145,0,4.2,0,0,3,Heart Disease
+69,Male,Atypical angina,140,254,FALSE,0,146,0,2,1,3,3,No Heart Disease
+58,Male,Atypical angina,132,224,FALSE,0,173,0,3.2,2,2,3,No Heart Disease
+38,Male,Typical angina,120,231,FALSE,1,182,1,3.8,1,0,3,No Heart Disease
+69,Female,Typical angina,140,239,FALSE,1,151,0,1.8,2,2,2,Heart Disease
+65,Male,Typical angina,138,282,TRUE,0,174,0,1.4,1,1,2,No Heart Disease
+45,Male,Typical angina,110,264,FALSE,1,132,0,1.2,1,0,3,No Heart Disease
+49,Male,Non-anginal pain,130,266,FALSE,1,171,0,0.6,2,0,2,Heart Disease
+45,Female,Non-anginal pain,130,234,FALSE,0,175,0,0.6,1,0,2,Heart Disease
+61,Male,Asymptomatic,138,166,FALSE,0,125,1,3.6,1,1,2,No Heart Disease
+52,Male,Asymptomatic,125,212,FALSE,1,168,0,1,2,2,3,No Heart Disease
+53,Female,Asymptomatic,130,264,FALSE,0,143,0,0.4,1,0,2,Heart Disease
+59,Female,Asymptomatic,174,249,FALSE,1,143,1,0,1,0,2,No Heart Disease
+58,Female,Atypical angina,120,340,FALSE,1,172,0,0,2,0,2,Heart Disease
+65,Male,Typical angina,138,282,TRUE,0,174,0,1.4,1,1,2,No Heart Disease
+58,Female,Asymptomatic,130,197,FALSE,1,131,0,0.6,1,0,2,Heart Disease
+46,Female,Asymptomatic,138,243,FALSE,0,152,1,0,1,0,2,Heart Disease
+56,Female,Asymptomatic,134,409,FALSE,0,150,1,1.9,1,2,3,No Heart Disease
+64,Male,Asymptomatic,128,263,FALSE,1,105,1,0.2,1,1,3,Heart Disease
+65,Male,Asymptomatic,120,177,FALSE,1,140,0,0.4,2,0,3,Heart Disease
+44,Male,Atypical angina,120,226,FALSE,1,169,0,0,2,0,2,Heart Disease
+50,Male,Asymptomatic,150,243,FALSE,0,128,0,2.6,1,0,3,No Heart Disease
+47,Male,Atypical angina,108,243,FALSE,1,152,0,0,2,0,2,No Heart Disease
+64,Female,Asymptomatic,130,303,FALSE,1,122,0,2,1,2,2,Heart Disease
+71,Female,Asymptomatic,112,149,FALSE,1,125,0,1.6,1,0,2,Heart Disease
+45,Female,Non-anginal pain,130,234,FALSE,0,175,0,0.6,1,0,2,Heart Disease
+62,Male,Asymptomatic,120,267,FALSE,1,99,1,1.8,1,2,3,No Heart Disease
+41,Male,Non-anginal pain,120,157,FALSE,1,182,0,0,2,0,2,Heart Disease
+66,Female,Typical angina,150,226,FALSE,1,114,0,2.6,0,0,2,Heart Disease
+56,Male,Asymptomatic,130,283,TRUE,0,103,1,1.6,0,0,3,No Heart Disease
+41,Female,Non-anginal pain,126,306,FALSE,1,163,0,0,2,0,2,Heart Disease
+41,Male,Non-anginal pain,110,235,FALSE,1,153,0,0,2,0,2,Heart Disease
+57,Female,Non-anginal pain,130,236,FALSE,0,174,0,0,1,1,2,No Heart Disease
+39,Female,Atypical angina,138,220,FALSE,1,152,0,0,1,0,2,Heart Disease
+64,Male,Atypical angina,125,309,FALSE,1,131,1,1.8,1,0,3,No Heart Disease
+59,Male,Asymptomatic,138,271,FALSE,0,182,0,0,2,0,2,Heart Disease
+61,Male,Asymptomatic,138,166,FALSE,0,125,1,3.6,1,1,2,No Heart Disease
+58,Male,Asymptomatic,114,318,FALSE,2,140,0,4.4,0,3,1,No Heart Disease
+47,Male,Asymptomatic,112,204,FALSE,1,143,0,0.1,2,0,2,Heart Disease
+58,Female,Asymptomatic,100,248,FALSE,0,122,0,1,1,0,2,Heart Disease
+66,Female,Typical angina,150,226,FALSE,1,114,0,2.6,0,0,2,Heart Disease
+65,Female,Atypical angina,140,417,TRUE,0,157,0,0.8,2,1,2,Heart Disease
+35,Male,Non-anginal pain,122,192,FALSE,1,174,0,0,2,0,2,Heart Disease
+57,Male,Non-anginal pain,124,261,FALSE,1,141,0,0.3,2,0,3,No Heart Disease
+29,Male,Non-anginal pain,130,204,FALSE,0,202,0,0,2,0,2,Heart Disease
+66,Male,Non-anginal pain,160,246,FALSE,1,120,1,0,1,3,1,No Heart Disease
+61,Female,Asymptomatic,130,330,FALSE,0,169,0,0,2,0,2,No Heart Disease
+52,Male,Asymptomatic,125,212,FALSE,1,168,0,1,2,2,3,No Heart Disease
+68,Male,Atypical angina,118,277,FALSE,1,151,0,1,2,1,3,Heart Disease
+54,Male,Atypical angina,120,258,FALSE,0,147,0,0.4,1,0,3,Heart Disease
+63,Male,Asymptomatic,130,330,TRUE,0,132,1,1.8,2,3,3,No Heart Disease
+58,Male,Asymptomatic,100,234,FALSE,1,156,0,0.1,2,1,3,No Heart Disease
+60,Male,Asymptomatic,130,253,FALSE,1,144,1,1.4,2,1,3,No Heart Disease
+63,Male,Asymptomatic,130,254,FALSE,0,147,0,1.4,1,1,3,No Heart Disease
+41,Female,Atypical angina,112,268,FALSE,0,172,1,0,2,0,2,Heart Disease
+68,Male,Atypical angina,180,274,TRUE,0,150,1,1.6,1,0,3,No Heart Disease
+42,Male,Non-anginal pain,120,295,FALSE,1,162,0,0,2,0,2,Heart Disease
+59,Male,Asymptomatic,170,326,FALSE,0,140,1,3.4,0,0,3,No Heart Disease
+59,Male,Asymptomatic,164,176,TRUE,0,90,0,1,1,2,1,No Heart Disease
+43,Male,Asymptomatic,120,177,FALSE,0,120,1,2.5,1,0,3,No Heart Disease
+60,Male,Atypical angina,140,185,FALSE,0,155,0,3,1,0,2,No Heart Disease
+63,Female,Asymptomatic,150,407,FALSE,0,154,0,4,1,3,3,No Heart Disease
+52,Male,Asymptomatic,128,204,TRUE,1,156,1,1,1,0,0,No Heart Disease
+58,Male,Asymptomatic,125,300,FALSE,0,171,0,0,2,2,3,No Heart Disease
+56,Female,Asymptomatic,200,288,TRUE,0,133,1,4,0,2,3,No Heart Disease
+54,Female,Atypical angina,135,304,TRUE,1,170,0,0,2,0,2,Heart Disease
+58,Male,Atypical angina,105,240,FALSE,0,154,1,0.6,1,0,3,Heart Disease
+55,Female,Non-anginal pain,135,250,FALSE,0,161,0,1.4,1,0,2,Heart Disease
+53,Male,Asymptomatic,140,203,TRUE,0,155,1,3.1,0,0,3,No Heart Disease
+63,Female,Non-anginal pain,140,195,FALSE,1,179,0,0,2,2,2,Heart Disease
+39,Male,Asymptomatic,118,219,FALSE,1,140,0,1.2,1,0,3,No Heart Disease
+35,Male,Asymptomatic,126,282,FALSE,0,156,1,0,2,0,3,No Heart Disease
+50,Female,Atypical angina,120,219,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+67,Male,Atypical angina,152,212,FALSE,0,150,0,0.8,1,0,3,No Heart Disease
+66,Male,Asymptomatic,112,212,FALSE,0,132,1,0.1,2,1,2,No Heart Disease
+35,Male,Asymptomatic,126,282,FALSE,0,156,1,0,2,0,3,No Heart Disease
+41,Male,Atypical angina,130,214,FALSE,0,168,0,2,1,0,2,Heart Disease
+35,Male,Asymptomatic,120,198,FALSE,1,130,1,1.6,1,0,3,No Heart Disease
+71,Female,Non-anginal pain,160,302,FALSE,1,162,0,0.4,2,2,2,Heart Disease
+57,Male,Asymptomatic,110,201,FALSE,1,126,1,1.5,1,0,1,Heart Disease
+51,Male,Atypical angina,94,227,FALSE,1,154,1,0,2,1,3,Heart Disease
+58,Male,Asymptomatic,128,216,FALSE,0,131,1,2.2,1,3,3,No Heart Disease
+57,Male,Atypical angina,128,229,FALSE,0,150,0,0.4,1,1,3,No Heart Disease
+56,Female,Non-anginal pain,140,294,FALSE,0,153,0,1.3,1,0,2,Heart Disease
+60,Female,Atypical angina,120,178,TRUE,1,96,0,0,2,0,2,Heart Disease
+45,Male,Typical angina,110,264,FALSE,1,132,0,1.2,1,0,3,No Heart Disease
+56,Male,Non-anginal pain,130,221,FALSE,0,163,0,0,2,0,3,Heart Disease
+35,Male,Asymptomatic,120,198,FALSE,1,130,1,1.6,1,0,3,No Heart Disease
+45,Female,Non-anginal pain,112,160,FALSE,1,138,0,0,1,0,2,Heart Disease
+66,Female,Typical angina,150,226,FALSE,1,114,0,2.6,0,0,2,Heart Disease
+51,Male,Typical angina,125,213,FALSE,0,125,1,1.4,2,1,2,Heart Disease
+70,Male,Non-anginal pain,156,245,FALSE,0,143,0,0,2,0,2,Heart Disease
+55,Female,Asymptomatic,128,205,FALSE,2,130,1,2,1,1,3,No Heart Disease
+56,Male,Atypical angina,130,256,TRUE,0,142,1,0.6,1,1,1,No Heart Disease
+55,Female,Non-anginal pain,135,250,FALSE,0,161,0,1.4,1,0,2,Heart Disease
+52,Male,Asymptomatic,108,233,TRUE,1,147,0,0.1,2,3,3,Heart Disease
+64,Male,Atypical angina,140,335,FALSE,1,158,0,0,2,0,2,No Heart Disease
+45,Male,Asymptomatic,115,260,FALSE,0,185,0,0,2,0,2,Heart Disease
+67,Female,Atypical angina,152,277,FALSE,1,172,0,0,2,1,2,Heart Disease
+68,Female,Atypical angina,120,211,FALSE,0,115,0,1.5,1,0,2,Heart Disease
+74,Female,Non-anginal pain,120,269,FALSE,0,121,1,0.2,2,1,2,Heart Disease
+60,Female,Asymptomatic,150,258,FALSE,0,157,0,2.6,1,2,3,No Heart Disease
+48,Male,Asymptomatic,124,274,FALSE,0,166,0,0.5,1,0,3,No Heart Disease
+56,Male,Non-anginal pain,130,221,FALSE,0,163,0,0,2,0,3,Heart Disease
+46,Male,Asymptomatic,140,311,FALSE,1,120,1,1.8,1,2,3,No Heart Disease
+55,Female,Non-anginal pain,135,250,FALSE,0,161,0,1.4,1,0,2,Heart Disease
+44,Male,Non-anginal pain,120,220,FALSE,1,170,0,0,2,0,2,Heart Disease
+52,Male,Asymptomatic,112,230,FALSE,1,160,0,0,2,1,2,No Heart Disease
+51,Male,Atypical angina,94,227,FALSE,1,154,1,0,2,1,3,Heart Disease
+44,Female,Atypical angina,108,141,FALSE,1,175,0,0.6,1,0,2,Heart Disease
+52,Male,Asymptomatic,128,204,TRUE,1,156,1,1,1,0,0,No Heart Disease
+50,Male,Atypical angina,129,196,FALSE,1,163,0,0,2,0,2,Heart Disease
+59,Male,Asymptomatic,110,239,FALSE,0,142,1,1.2,1,1,3,No Heart Disease
+67,Male,Asymptomatic,120,229,FALSE,0,129,1,2.6,1,2,3,No Heart Disease
+58,Male,Asymptomatic,125,300,FALSE,0,171,0,0,2,2,3,No Heart Disease
+52,Male,Asymptomatic,128,255,FALSE,1,161,1,0,2,1,3,No Heart Disease
+44,Male,Atypical angina,140,235,FALSE,0,180,0,0,2,0,2,Heart Disease
+41,Female,Atypical angina,112,268,FALSE,0,172,1,0,2,0,2,Heart Disease
+63,Male,Asymptomatic,130,330,TRUE,0,132,1,1.8,2,3,3,No Heart Disease
+58,Male,Non-anginal pain,125,220,FALSE,1,144,0,0.4,1,4,3,Heart Disease
+60,Female,Atypical angina,102,318,FALSE,1,160,0,0,2,1,2,Heart Disease
+51,Male,Atypical angina,100,222,FALSE,1,143,1,1.2,1,0,2,Heart Disease
+64,Male,Atypical angina,140,335,FALSE,1,158,0,0,2,0,2,No Heart Disease
+60,Male,Asymptomatic,117,230,TRUE,1,160,1,1.4,2,2,3,No Heart Disease
+44,Male,Atypical angina,120,226,FALSE,1,169,0,0,2,0,2,Heart Disease
+58,Male,Non-anginal pain,125,220,FALSE,1,144,0,0.4,1,4,3,Heart Disease
+55,Male,Non-anginal pain,130,262,FALSE,1,155,0,0,2,0,2,Heart Disease
+65,Female,Atypical angina,160,360,FALSE,0,151,0,0.8,2,0,2,Heart Disease
+48,Male,Non-anginal pain,130,245,FALSE,0,180,0,0.2,1,0,2,Heart Disease
+65,Male,Asymptomatic,120,177,FALSE,1,140,0,0.4,2,0,3,Heart Disease
+51,Female,Atypical angina,130,256,FALSE,0,149,0,0.5,2,0,2,Heart Disease
+48,Male,Atypical angina,124,255,TRUE,1,175,0,0,2,2,2,Heart Disease
+64,Male,Asymptomatic,120,246,FALSE,0,96,1,2.2,0,1,2,No Heart Disease
+66,Male,Asymptomatic,160,228,FALSE,0,138,0,2.3,2,0,1,Heart Disease
+46,Female,Non-anginal pain,105,204,FALSE,1,172,0,0,2,0,2,Heart Disease
+61,Female,Asymptomatic,130,330,FALSE,0,169,0,0,2,0,2,No Heart Disease
+57,Male,Asymptomatic,150,276,FALSE,0,112,1,0.6,1,1,1,No Heart Disease
+49,Female,Asymptomatic,130,269,FALSE,1,163,0,0,2,0,2,Heart Disease
+56,Male,Non-anginal pain,130,221,FALSE,0,163,0,0,2,0,3,Heart Disease
+58,Female,Typical angina,150,283,TRUE,0,162,0,1,2,0,2,Heart Disease
+63,Male,Asymptomatic,140,187,FALSE,0,144,1,4,2,2,3,No Heart Disease
+57,Male,Asymptomatic,110,335,FALSE,1,143,1,3,1,1,3,No Heart Disease
+57,Male,Asymptomatic,110,335,FALSE,1,143,1,3,1,1,3,No Heart Disease
+68,Male,Asymptomatic,144,193,TRUE,1,141,0,3.4,1,2,3,No Heart Disease
+46,Male,Non-anginal pain,101,197,TRUE,1,156,0,0,2,0,3,Heart Disease
+71,Female,Atypical angina,110,265,TRUE,0,130,0,0,2,1,2,Heart Disease
+41,Male,Non-anginal pain,135,203,FALSE,1,132,0,0,1,0,1,Heart Disease
+45,Female,Asymptomatic,138,236,FALSE,0,152,1,0.2,1,0,2,Heart Disease
+62,Female,Asymptomatic,150,244,FALSE,1,154,1,1.4,1,0,2,No Heart Disease
+65,Female,Asymptomatic,150,225,FALSE,0,114,0,1,1,3,3,No Heart Disease
+48,Female,Atypical angina,130,275,FALSE,1,139,0,0.2,2,0,2,Heart Disease
+51,Male,Atypical angina,100,222,FALSE,1,143,1,1.2,1,0,2,Heart Disease
+61,Female,Asymptomatic,145,307,FALSE,0,146,1,1,1,0,3,No Heart Disease
+53,Male,Asymptomatic,123,282,FALSE,1,95,1,2,1,2,3,No Heart Disease
+59,Male,Typical angina,134,204,FALSE,1,162,0,0.8,2,2,2,No Heart Disease
+34,Female,Non-anginal pain,118,210,FALSE,1,192,0,0.7,2,0,2,Heart Disease
+44,Male,Asymptomatic,120,169,FALSE,1,144,1,2.8,0,0,1,No Heart Disease
+58,Male,Asymptomatic,146,218,FALSE,1,105,0,2,1,1,3,No Heart Disease
+64,Female,Asymptomatic,130,303,FALSE,1,122,0,2,1,2,2,Heart Disease
+56,Male,Non-anginal pain,120,240,FALSE,1,169,0,0,0,0,2,Heart Disease
+54,Male,Atypical angina,150,232,FALSE,0,165,0,1.6,2,0,3,Heart Disease
+55,Male,Asymptomatic,160,289,FALSE,0,145,1,0.8,1,1,3,No Heart Disease
+67,Male,Asymptomatic,125,254,TRUE,1,163,0,0.2,1,2,3,No Heart Disease
+51,Male,Asymptomatic,140,298,FALSE,1,122,1,4.2,1,3,3,No Heart Disease
+62,Female,Asymptomatic,138,294,TRUE,1,106,0,1.9,1,3,2,No Heart Disease
+62,Male,Non-anginal pain,120,281,FALSE,0,103,0,1.4,1,1,3,No Heart Disease
+54,Male,Asymptomatic,110,239,FALSE,1,126,1,2.8,1,1,3,No Heart Disease
+54,Male,Asymptomatic,110,239,FALSE,1,126,1,2.8,1,1,3,No Heart Disease
+68,Male,Asymptomatic,144,193,TRUE,1,141,0,3.4,1,2,3,No Heart Disease
+60,Female,Atypical angina,120,178,TRUE,1,96,0,0,2,0,2,Heart Disease
+61,Male,Typical angina,134,234,FALSE,1,145,0,2.6,1,2,2,No Heart Disease
+62,Male,Non-anginal pain,128,208,TRUE,0,140,0,0,2,0,2,Heart Disease
+41,Male,Non-anginal pain,135,203,FALSE,1,132,0,0,1,0,1,Heart Disease
+65,Female,Asymptomatic,150,225,FALSE,0,114,0,1,1,3,3,No Heart Disease
+59,Male,Typical angina,170,288,FALSE,0,159,0,0.2,1,0,3,No Heart Disease
+43,Male,Asymptomatic,115,303,FALSE,1,181,0,1.2,1,0,2,Heart Disease
+67,Male,Asymptomatic,120,229,FALSE,0,129,1,2.6,1,2,3,No Heart Disease
+63,Male,Typical angina,145,233,TRUE,0,150,0,2.3,0,0,1,Heart Disease
+63,Female,Asymptomatic,124,197,FALSE,1,136,1,0,1,0,2,No Heart Disease
+52,Male,Asymptomatic,112,230,FALSE,1,160,0,0,2,1,2,No Heart Disease
+58,Female,Asymptomatic,130,197,FALSE,1,131,0,0.6,1,0,2,Heart Disease
+53,Male,Asymptomatic,142,226,FALSE,0,111,1,0,2,0,3,Heart Disease
+57,Male,Asymptomatic,150,276,FALSE,0,112,1,0.6,1,1,1,No Heart Disease
+44,Male,Atypical angina,130,233,FALSE,1,179,1,0.4,2,0,2,Heart Disease
+51,Male,Atypical angina,94,227,FALSE,1,154,1,0,2,1,3,Heart Disease
+54,Female,Atypical angina,110,214,FALSE,1,158,0,1.6,1,0,2,Heart Disease
+40,Male,Asymptomatic,110,167,FALSE,0,114,1,2,1,0,3,No Heart Disease
+57,Male,Non-anginal pain,124,261,FALSE,1,141,0,0.3,2,0,3,No Heart Disease
+62,Female,Asymptomatic,140,268,FALSE,0,160,0,3.6,0,2,2,No Heart Disease
+53,Male,Asymptomatic,140,203,TRUE,0,155,1,3.1,0,0,3,No Heart Disease
+62,Male,Non-anginal pain,128,208,TRUE,0,140,0,0,2,0,2,Heart Disease
+58,Male,Atypical angina,105,240,FALSE,0,154,1,0.6,1,0,3,Heart Disease
+70,Male,Non-anginal pain,156,245,FALSE,0,143,0,0,2,0,2,Heart Disease
+45,Male,Asymptomatic,115,260,FALSE,0,185,0,0,2,0,2,Heart Disease
+42,Male,Typical angina,148,244,FALSE,0,178,0,0.8,2,2,2,Heart Disease
+58,Female,Asymptomatic,170,225,TRUE,0,146,1,2.8,1,2,1,No Heart Disease
+61,Male,Asymptomatic,140,207,FALSE,0,138,1,1.9,2,1,3,No Heart Disease
+62,Female,Asymptomatic,140,268,FALSE,0,160,0,3.6,0,2,2,No Heart Disease
+60,Male,Asymptomatic,130,253,FALSE,1,144,1,1.4,2,1,3,No Heart Disease
+54,Male,Asymptomatic,140,239,FALSE,1,160,0,1.2,2,0,2,Heart Disease
+61,Male,Asymptomatic,138,166,FALSE,0,125,1,3.6,1,1,2,No Heart Disease
+63,Female,Atypical angina,135,252,FALSE,0,172,0,0,2,0,2,Heart Disease
+42,Male,Atypical angina,130,180,FALSE,1,150,0,0,2,0,2,Heart Disease
+57,Male,Atypical angina,128,229,FALSE,0,150,0,0.4,1,1,3,No Heart Disease
+44,Male,Atypical angina,130,233,FALSE,1,179,1,0.4,2,0,2,Heart Disease
+54,Male,Asymptomatic,124,266,FALSE,0,109,1,2.2,1,1,3,No Heart Disease
+51,Male,Atypical angina,100,222,FALSE,1,143,1,1.2,1,0,2,Heart Disease
+58,Male,Non-anginal pain,125,220,FALSE,1,144,0,0.4,1,4,3,Heart Disease
+68,Male,Atypical angina,118,277,FALSE,1,151,0,1,2,1,3,Heart Disease
+55,Male,Asymptomatic,140,217,FALSE,1,111,1,5.6,0,0,3,No Heart Disease
+42,Male,Asymptomatic,136,315,FALSE,1,125,1,1.8,1,0,1,No Heart Disease
+49,Male,Atypical angina,118,149,FALSE,0,126,0,0.8,2,3,2,No Heart Disease
+53,Female,Asymptomatic,138,234,FALSE,0,160,0,0,2,0,2,Heart Disease
+52,Male,Atypical angina,172,199,TRUE,1,162,0,0.5,2,0,3,Heart Disease
+51,Male,Typical angina,125,213,FALSE,0,125,1,1.4,2,1,2,Heart Disease
+51,Male,Asymptomatic,140,261,FALSE,0,186,1,0,2,0,2,Heart Disease
+70,Male,Asymptomatic,145,174,FALSE,1,125,1,2.6,0,0,3,No Heart Disease
+35,Female,Asymptomatic,138,183,FALSE,1,182,0,1.4,2,0,2,Heart Disease
+58,Male,Atypical angina,112,230,FALSE,0,165,0,2.5,1,1,3,No Heart Disease
+59,Male,Typical angina,160,273,FALSE,0,125,0,0,2,0,2,No Heart Disease
+60,Male,Asymptomatic,140,293,FALSE,0,170,0,1.2,1,2,3,No Heart Disease
+56,Male,Asymptomatic,132,184,FALSE,0,105,1,2.1,1,1,1,No Heart Disease
+35,Female,Asymptomatic,138,183,FALSE,1,182,0,1.4,2,0,2,Heart Disease
+61,Male,Asymptomatic,138,166,FALSE,0,125,1,3.6,1,1,2,No Heart Disease
+58,Female,Typical angina,150,283,TRUE,0,162,0,1,2,0,2,Heart Disease
+52,Male,Asymptomatic,128,255,FALSE,1,161,1,0,2,1,3,No Heart Disease
+58,Male,Non-anginal pain,120,284,FALSE,0,160,0,1.8,1,0,2,No Heart Disease
+37,Male,Atypical angina,130,250,FALSE,1,187,0,3.5,0,0,2,Heart Disease
+52,Male,Asymptomatic,128,255,FALSE,1,161,1,0,2,1,3,No Heart Disease
+67,Male,Asymptomatic,120,229,FALSE,0,129,1,2.6,1,2,3,No Heart Disease
+65,Male,Typical angina,138,282,TRUE,0,174,0,1.4,1,1,2,No Heart Disease
+46,Male,Non-anginal pain,101,197,TRUE,1,156,0,0,2,0,3,Heart Disease
+68,Female,Atypical angina,120,211,FALSE,0,115,0,1.5,1,0,2,Heart Disease
+43,Male,Asymptomatic,115,303,FALSE,1,181,0,1.2,1,0,2,Heart Disease
+68,Female,Atypical angina,120,211,FALSE,0,115,0,1.5,1,0,2,Heart Disease
+51,Male,Asymptomatic,140,299,FALSE,1,173,1,1.6,2,0,3,No Heart Disease
+52,Male,Asymptomatic,112,230,FALSE,1,160,0,0,2,1,2,No Heart Disease
+64,Male,Atypical angina,140,335,FALSE,1,158,0,0,2,0,2,No Heart Disease
+59,Male,Typical angina,170,288,FALSE,0,159,0,0.2,1,0,3,No Heart Disease
+52,Male,Asymptomatic,125,212,FALSE,1,168,0,1,2,2,3,No Heart Disease
+59,Male,Typical angina,160,273,FALSE,0,125,0,0,2,0,2,No Heart Disease
+60,Female,Typical angina,150,240,FALSE,1,171,0,0.9,2,0,2,Heart Disease
+41,Male,Atypical angina,112,250,FALSE,1,179,0,0,2,0,2,Heart Disease
+41,Male,Non-anginal pain,110,235,FALSE,1,153,0,0,2,0,2,Heart Disease
+56,Male,Non-anginal pain,120,240,FALSE,1,169,0,0,0,0,2,Heart Disease
+56,Male,Non-anginal pain,120,236,FALSE,1,178,0,0.8,2,0,2,Heart Disease
+48,Female,Atypical angina,130,275,FALSE,1,139,0,0.2,2,0,2,Heart Disease
+39,Male,Atypical angina,140,321,FALSE,0,182,0,0,2,0,2,Heart Disease
+64,Male,Typical angina,170,227,FALSE,0,155,0,0.6,1,0,3,Heart Disease
+57,Male,Asymptomatic,140,192,FALSE,1,148,0,0.4,1,0,1,Heart Disease
+59,Male,Typical angina,160,273,FALSE,0,125,0,0,2,0,2,No Heart Disease
+60,Male,Asymptomatic,130,206,FALSE,0,132,1,2.4,1,2,3,No Heart Disease
+61,Male,Asymptomatic,140,207,FALSE,0,138,1,1.9,2,1,3,No Heart Disease
+43,Female,Atypical angina,122,213,FALSE,1,165,0,0.2,1,0,2,Heart Disease
+54,Male,Asymptomatic,120,188,FALSE,1,113,0,1.4,1,1,3,No Heart Disease
+59,Male,Asymptomatic,138,271,FALSE,0,182,0,0,2,0,2,Heart Disease
+57,Male,Asymptomatic,132,207,FALSE,1,168,1,0,2,0,3,Heart Disease
+57,Male,Non-anginal pain,154,232,FALSE,0,164,0,0,2,1,2,No Heart Disease
+57,Male,Asymptomatic,130,131,FALSE,1,115,1,1.2,1,1,3,No Heart Disease
+48,Male,Asymptomatic,124,274,FALSE,0,166,0,0.5,1,0,3,No Heart Disease
+70,Male,Asymptomatic,145,174,FALSE,1,125,1,2.6,0,0,3,No Heart Disease
+57,Male,Asymptomatic,165,289,TRUE,0,124,0,1,1,3,3,No Heart Disease
+61,Male,Asymptomatic,120,260,FALSE,1,140,1,3.6,1,1,3,No Heart Disease
+57,Male,Asymptomatic,110,201,FALSE,1,126,1,1.5,1,0,1,Heart Disease
+60,Female,Asymptomatic,150,258,FALSE,0,157,0,2.6,1,2,3,No Heart Disease
+63,Female,Asymptomatic,150,407,FALSE,0,154,0,4,1,3,3,No Heart Disease
+55,Female,Asymptomatic,128,205,FALSE,2,130,1,2,1,1,3,No Heart Disease
+64,Female,Asymptomatic,180,325,FALSE,1,154,1,0,2,0,2,Heart Disease
+54,Male,Asymptomatic,110,239,FALSE,1,126,1,2.8,1,1,3,No Heart Disease
+52,Male,Asymptomatic,128,204,TRUE,1,156,1,1,1,0,0,No Heart Disease
+51,Male,Asymptomatic,140,299,FALSE,1,173,1,1.6,2,0,3,No Heart Disease
+62,Female,Atypical angina,130,263,FALSE,1,97,0,1.2,1,1,3,No Heart Disease
+59,Male,Typical angina,178,270,FALSE,0,145,0,4.2,0,0,3,Heart Disease
+52,Male,Non-anginal pain,134,201,FALSE,1,158,0,0.8,2,1,2,Heart Disease
+42,Female,Asymptomatic,102,265,FALSE,0,122,0,0.6,1,0,2,Heart Disease
+59,Male,Asymptomatic,135,234,FALSE,1,161,0,0.5,1,0,3,Heart Disease
+61,Male,Typical angina,134,234,FALSE,1,145,0,2.6,1,2,2,No Heart Disease
+42,Female,Asymptomatic,102,265,FALSE,0,122,0,0.6,1,0,2,Heart Disease
+62,Female,Asymptomatic,140,268,FALSE,0,160,0,3.6,0,2,2,No Heart Disease
+59,Male,Atypical angina,126,218,TRUE,1,134,0,2.2,1,1,1,No Heart Disease
+55,Male,Non-anginal pain,130,262,FALSE,1,155,0,0,2,0,2,Heart Disease
+64,Male,Asymptomatic,120,246,FALSE,0,96,1,2.2,0,1,2,No Heart Disease
+42,Male,Asymptomatic,140,226,FALSE,1,178,0,0,2,0,2,Heart Disease
+50,Female,Non-anginal pain,120,244,FALSE,1,162,0,1.1,2,0,2,Heart Disease
+62,Male,Asymptomatic,120,267,FALSE,1,99,1,1.8,1,2,3,No Heart Disease
+50,Male,Asymptomatic,144,200,FALSE,0,126,1,0.9,1,0,3,No Heart Disease
+50,Male,Atypical angina,140,233,FALSE,1,163,0,0.6,1,1,3,No Heart Disease
+58,Female,Non-anginal pain,136,319,TRUE,0,152,0,0,2,2,2,No Heart Disease
+35,Male,Asymptomatic,120,198,FALSE,1,130,1,1.6,1,0,3,No Heart Disease
+45,Male,Asymptomatic,104,208,FALSE,0,148,1,3,1,0,2,Heart Disease
+66,Male,Asymptomatic,112,212,FALSE,0,132,1,0.1,2,1,2,No Heart Disease
+46,Male,Asymptomatic,120,249,FALSE,0,144,0,0.8,2,0,3,No Heart Disease
+65,Male,Asymptomatic,135,254,FALSE,0,127,0,2.8,1,1,3,No Heart Disease
+47,Male,Atypical angina,130,253,FALSE,1,179,0,0,2,0,2,Heart Disease
+59,Male,Typical angina,134,204,FALSE,1,162,0,0.8,2,2,2,No Heart Disease
+38,Male,Typical angina,120,231,FALSE,1,182,1,3.8,1,0,3,No Heart Disease
+39,Male,Asymptomatic,118,219,FALSE,1,140,0,1.2,1,0,3,No Heart Disease
+58,Male,Asymptomatic,146,218,FALSE,1,105,0,2,1,1,3,No Heart Disease
+44,Male,Non-anginal pain,120,263,FALSE,1,173,0,0,2,0,3,Heart Disease
+54,Male,Asymptomatic,140,239,FALSE,1,160,0,1.2,2,0,2,Heart Disease
+61,Female,Asymptomatic,130,330,FALSE,0,169,0,0,2,0,2,No Heart Disease
+57,Male,Asymptomatic,130,131,FALSE,1,115,1,1.2,1,1,3,No Heart Disease
+54,Male,Asymptomatic,110,206,FALSE,0,108,1,0,1,1,2,No Heart Disease
+42,Male,Atypical angina,120,240,TRUE,1,194,0,0.8,0,0,3,Heart Disease
+54,Male,Asymptomatic,124,266,FALSE,0,109,1,2.2,1,1,3,No Heart Disease
+60,Male,Asymptomatic,130,206,FALSE,0,132,1,2.4,1,2,3,No Heart Disease
+65,Male,Asymptomatic,135,254,FALSE,0,127,0,2.8,1,1,3,No Heart Disease
+40,Male,Asymptomatic,152,223,FALSE,1,181,0,0,2,0,3,No Heart Disease
+51,Female,Atypical angina,140,308,FALSE,0,142,0,1.5,2,1,2,Heart Disease
+38,Male,Typical angina,120,231,FALSE,1,182,1,3.8,1,0,3,No Heart Disease
+42,Male,Atypical angina,130,180,FALSE,1,150,0,0,2,0,2,Heart Disease
+56,Male,Non-anginal pain,120,240,FALSE,1,169,0,0,0,0,2,Heart Disease
+43,Male,Atypical angina,130,315,FALSE,1,162,0,1.9,2,1,2,Heart Disease
+64,Male,Atypical angina,140,335,FALSE,1,158,0,0,2,0,2,No Heart Disease
+53,Male,Asymptomatic,142,226,FALSE,0,111,1,0,2,0,3,Heart Disease
+49,Female,Non-anginal pain,134,271,FALSE,1,162,0,0,1,0,2,Heart Disease
+57,Female,Asymptomatic,140,241,FALSE,1,123,1,0.2,1,0,3,No Heart Disease
+52,Female,Atypical angina,136,196,FALSE,0,169,0,0.1,1,0,2,Heart Disease
+69,Female,Typical angina,140,239,FALSE,1,151,0,1.8,2,2,2,Heart Disease
+65,Male,Asymptomatic,120,177,FALSE,1,140,0,0.4,2,0,3,Heart Disease
+66,Female,Asymptomatic,178,228,TRUE,1,165,1,1,1,2,3,No Heart Disease
+56,Male,Typical angina,120,193,FALSE,0,162,0,1.9,1,0,3,Heart Disease
+67,Female,Atypical angina,152,277,FALSE,1,172,0,0,2,1,2,Heart Disease
+54,Female,Atypical angina,160,201,FALSE,1,163,0,0,2,1,2,Heart Disease
+70,Male,Asymptomatic,145,174,FALSE,1,125,1,2.6,0,0,3,No Heart Disease
+57,Male,Asymptomatic,132,207,FALSE,1,168,1,0,2,0,3,Heart Disease
+67,Male,Asymptomatic,160,286,FALSE,0,108,1,1.5,1,3,2,No Heart Disease
+62,Female,Atypical angina,130,263,FALSE,1,97,0,1.2,1,1,3,No Heart Disease
+54,Female,Atypical angina,135,304,TRUE,1,170,0,0,2,0,2,Heart Disease
+45,Female,Asymptomatic,138,236,FALSE,0,152,1,0.2,1,0,2,Heart Disease
+53,Female,Asymptomatic,130,264,FALSE,0,143,0,0.4,1,0,2,Heart Disease
+62,Male,Atypical angina,130,231,FALSE,1,146,0,1.8,1,3,3,Heart Disease
+49,Female,Asymptomatic,130,269,FALSE,1,163,0,0,2,0,2,Heart Disease
+50,Male,Atypical angina,140,233,FALSE,1,163,0,0.6,1,1,3,No Heart Disease
+65,Female,Atypical angina,140,417,TRUE,0,157,0,0.8,2,1,2,Heart Disease
+69,Female,Typical angina,140,239,FALSE,1,151,0,1.8,2,2,2,Heart Disease
+52,Female,Atypical angina,136,196,FALSE,0,169,0,0.1,1,0,2,Heart Disease
+58,Female,Asymptomatic,100,248,FALSE,0,122,0,1,1,0,2,Heart Disease
+52,Male,Asymptomatic,108,233,TRUE,1,147,0,0.1,2,3,3,Heart Disease
+57,Female,Asymptomatic,140,241,FALSE,1,123,1,0.2,1,0,3,No Heart Disease
+44,Female,Atypical angina,108,141,FALSE,1,175,0,0.6,1,0,2,Heart Disease
+76,Female,Atypical angina,140,197,FALSE,2,116,0,1.1,1,0,2,Heart Disease
+58,Male,Asymptomatic,128,259,FALSE,0,130,1,3,1,2,3,No Heart Disease
+60,Female,Atypical angina,120,178,TRUE,1,96,0,0,2,0,2,Heart Disease
+53,Male,Asymptomatic,140,203,TRUE,0,155,1,3.1,0,0,3,No Heart Disease
+52,Male,Non-anginal pain,120,325,FALSE,1,172,0,0.2,2,0,2,Heart Disease
+38,Male,Atypical angina,138,175,FALSE,1,173,0,0,2,4,2,Heart Disease
+52,Male,Atypical angina,172,199,TRUE,1,162,0,0.5,2,0,3,Heart Disease
+52,Male,Typical angina,118,186,FALSE,0,190,0,0,1,0,1,Heart Disease
+51,Male,Atypical angina,125,245,TRUE,0,166,0,2.4,1,0,2,Heart Disease
+43,Male,Asymptomatic,110,211,FALSE,1,161,0,0,2,0,3,Heart Disease
+39,Male,Asymptomatic,118,219,FALSE,1,140,0,1.2,1,0,3,No Heart Disease
+63,Female,Asymptomatic,108,269,FALSE,1,169,1,1.8,1,2,2,No Heart Disease
+52,Male,Non-anginal pain,128,205,TRUE,1,184,0,0,2,0,2,Heart Disease
+44,Male,Asymptomatic,110,197,FALSE,0,177,0,0,2,1,2,No Heart Disease
+45,Male,Asymptomatic,142,309,FALSE,0,147,1,0,1,3,3,No Heart Disease
+57,Male,Asymptomatic,140,192,FALSE,1,148,0,0.4,1,0,1,Heart Disease
+39,Male,Asymptomatic,118,219,FALSE,1,140,0,1.2,1,0,3,No Heart Disease
+67,Female,Asymptomatic,106,223,FALSE,1,142,0,0.3,2,2,2,Heart Disease
+64,Male,Asymptomatic,128,263,FALSE,1,105,1,0.2,1,1,3,Heart Disease
+59,Male,Asymptomatic,135,234,FALSE,1,161,0,0.5,1,0,3,Heart Disease
+62,Male,Atypical angina,130,231,FALSE,1,146,0,1.8,1,3,3,Heart Disease
+55,Female,Asymptomatic,180,327,FALSE,2,117,1,3.4,1,0,2,No Heart Disease
+57,Male,Non-anginal pain,154,232,FALSE,0,164,0,0,2,1,2,No Heart Disease
+60,Male,Asymptomatic,140,293,FALSE,0,170,0,1.2,1,2,3,No Heart Disease
+71,Female,Non-anginal pain,160,302,FALSE,1,162,0,0.4,2,2,2,Heart Disease
+56,Male,Non-anginal pain,120,236,FALSE,1,178,0,0.8,2,0,2,Heart Disease
+60,Male,Asymptomatic,117,230,TRUE,1,160,1,1.4,2,2,3,No Heart Disease
+50,Female,Asymptomatic,110,254,FALSE,0,159,0,0,2,0,2,Heart Disease
+43,Male,Asymptomatic,132,247,TRUE,0,143,1,0.1,1,4,3,No Heart Disease
+59,Male,Asymptomatic,110,239,FALSE,0,142,1,1.2,1,1,3,No Heart Disease
+44,Male,Non-anginal pain,120,263,FALSE,1,173,0,0,2,0,3,Heart Disease
+56,Female,Asymptomatic,134,409,FALSE,0,150,1,1.9,1,2,3,No Heart Disease
+54,Male,Asymptomatic,120,188,FALSE,1,113,0,1.4,1,1,3,No Heart Disease
+42,Male,Asymptomatic,136,315,FALSE,1,125,1,1.8,1,0,1,No Heart Disease
+67,Male,Asymptomatic,125,254,TRUE,1,163,0,0.2,1,2,3,No Heart Disease
+64,Male,Asymptomatic,145,212,FALSE,0,132,0,2,1,2,1,No Heart Disease
+42,Male,Asymptomatic,140,226,FALSE,1,178,0,0,2,0,2,Heart Disease
+66,Male,Asymptomatic,112,212,FALSE,0,132,1,0.1,2,1,2,No Heart Disease
+52,Male,Asymptomatic,108,233,TRUE,1,147,0,0.1,2,3,3,Heart Disease
+51,Female,Atypical angina,140,308,FALSE,0,142,0,1.5,2,1,2,Heart Disease
+55,Female,Asymptomatic,128,205,FALSE,2,130,1,2,1,1,3,No Heart Disease
+58,Male,Atypical angina,140,211,TRUE,0,165,0,0,2,0,2,Heart Disease
+56,Male,Typical angina,120,193,FALSE,0,162,0,1.9,1,0,3,Heart Disease
+42,Male,Non-anginal pain,120,295,FALSE,1,162,0,0,2,0,2,Heart Disease
+40,Male,Asymptomatic,152,223,FALSE,1,181,0,0,2,0,3,No Heart Disease
+51,Male,Asymptomatic,140,299,FALSE,1,173,1,1.6,2,0,3,No Heart Disease
+45,Male,Non-anginal pain,128,308,FALSE,0,170,0,0,2,0,2,Heart Disease
+48,Male,Non-anginal pain,110,229,FALSE,1,168,0,1,0,0,3,No Heart Disease
+58,Male,Asymptomatic,114,318,FALSE,2,140,0,4.4,0,3,1,No Heart Disease
+44,Female,Atypical angina,108,141,FALSE,1,175,0,0.6,1,0,2,Heart Disease
+58,Male,Asymptomatic,128,216,FALSE,0,131,1,2.2,1,3,3,No Heart Disease
+65,Male,Typical angina,138,282,TRUE,0,174,0,1.4,1,1,2,No Heart Disease
+53,Male,Asymptomatic,123,282,FALSE,1,95,1,2,1,2,3,No Heart Disease
+41,Male,Asymptomatic,110,172,FALSE,0,158,0,0,2,0,3,No Heart Disease
+47,Male,Asymptomatic,112,204,FALSE,1,143,0,0.1,2,0,2,Heart Disease
+59,Male,Non-anginal pain,140,221,FALSE,1,164,1,0,2,0,2,Heart Disease
+60,Male,Asymptomatic,125,258,FALSE,0,141,1,2.8,1,1,3,No Heart Disease
+47,Male,Asymptomatic,110,275,FALSE,0,118,1,1,1,1,2,No Heart Disease
+50,Female,Asymptomatic,110,254,FALSE,0,159,0,0,2,0,2,Heart Disease
+54,Male,Asymptomatic,120,188,FALSE,1,113,0,1.4,1,1,3,No Heart Disease
